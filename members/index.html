@@ -18,67 +18,32 @@ group: members
           <em>{{person.pronouns}}</em> <br>
         {% endif %}
         {{person.position}} <br>
+        {% if person.email %}
         <em>{{person.email}}</em> <br>
+        {%endif%}
         {% if person.website %}
           <a style="overflow-wrap: break-word;" href= "{{person.website}}">{{person.website}}</a> <br>
         {% endif %}
         {% if person.orcid %}
-          
           <a href="http://orcid.org/{{person.orcid}}" class="align-middle"> 
-          <svg version="1.1" id="orcid_icon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" xmlns:xlink="http://www.w3.org/1999/xlink"
-             viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-          <style type="text/css">
-            .st0{fill:#A6CE39;}
-            .st1{fill:#FFFFFF;}
-          </style>
-          <path class="st0" d="M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z"/>
-          <g>
-            <path class="st1" d="M86.3,186.2H70.9V79.1h15.4v48.4V186.2z"/>
-            <path class="st1" d="M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5
-              c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-43.7-39.7h-23.7V172.4z"/>
-            <path class="st1" d="M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1
-              C84.2,46.7,88.7,51.3,88.7,56.8z"/>
-          </g>
-          </svg>
+          <img class="inline-block mem-logo" src="/static/img/logo/orcid_logo.svg">
         {{person.orcid}}
         </a> <br>
         {% endif %}
         {% if person.linkedin %}
           <a href= "http://www.linkedin.com/in/{{person.linkedin}}"> 
-            <svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg2" sodipodi:version="0.32" inkscape:version="0.47 r22583" sodipodi:docname="linkedin.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" x="0px" y="0px" width="1em" height="1em" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
-            <sodipodi:namedview showgrid="false" inkscape:window-maximized="0" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" inkscape:cx="138.80354" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.24748737" inkscape:cy="94.798647" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-width="853" inkscape:window-height="674" inkscape:window-x="1" inkscape:window-y="281">
-              </sodipodi:namedview>
-            <g id="layer1" transform="translate(-373.642,-318.344)" inkscape:label="Layer 1" inkscape:groupmode="layer">
-              
-                <path id="rect1942" inkscape:export-filename="C:\Documents and Settings\Molumen\Desktop\path3511111.png" inkscape:export-xdpi="7.7063322" inkscape:export-ydpi="7.7063322" fill="#1D8CB5" d="   M583.659,328.849H419.625c-19.599,0-35.487,15.888-35.487,35.487v164.015c0,19.599,15.888,35.486,35.487,35.486h164.033   c19.599,0,35.487-15.888,35.487-35.486V364.337C619.146,344.738,603.257,328.849,583.659,328.849z"/>
-              
-                <linearGradient id="path1950_1_" gradientUnits="userSpaceOnUse" x1="-808.8727" y1="199.8918" x2="-860.5692" y2="49.2029" gradientTransform="matrix(-0.5915 0 0 -0.5915 -34.5417 412.5453)">
-                <stop offset="0" style="stop-color:#FFFFFF"/>
-                <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-              </linearGradient>
-              
-                <path id="path1950" inkscape:export-filename="C:\Documents and Settings\Molumen\Desktop\path3511111.png" inkscape:export-xdpi="7.7063322" sodipodi:nodetypes="ccccsssc" inkscape:export-ydpi="7.7063322" opacity="0.7811" fill="url(#path1950_1_)" enable-background="new    " d="   M557.056,338.895H446.227c-29.337,0-52.955,23.81-52.955,53.385v108.127c0.95,23.087,4.603,8.491,11.555-17.075   c8.081-29.713,34.396-55.682,66.445-75.145c24.461-14.855,51.84-24.341,101.679-25.244   C601.216,382.432,598.721,346.26,557.056,338.895z"/>
-            </g>
-            <g id="layer1_1_" transform="translate(-200.55198,-393.96227)" inkscape:label="Layer 1" inkscape:groupmode="layer">
-              <g id="g3019" transform="matrix(1.018827,0,0,-1.018827,170.5996,498.03288)">
-                <path id="path28_1_" inkscape:connector-curvature="0" fill="#FFFFFF" d="M109.495-101.774V2.533H74.828v-104.307H109.495z     M92.168,16.775c12.081,0,19.612,8.01,19.612,18.021c-0.224,10.233-7.531,18.021-19.385,18.021    c-11.864,0-19.615-7.788-19.615-18.021c0-10.011,7.521-18.021,19.159-18.021H92.168L92.168,16.775z"/>
-                <path id="path30_1_" inkscape:connector-curvature="0" fill="#FFFFFF" d="M128.681-101.774h34.673v58.249    c0,3.119,0.226,6.235,1.143,8.462c2.5,6.232,8.209,12.681,17.784,12.681c12.547,0,17.562-9.568,17.562-23.588v-55.804h34.666    v59.81c0,32.039-17.1,46.946-39.913,46.946c-18.701,0-26.915-10.45-31.476-17.571h0.234V2.533h-34.673    C129.141-7.253,128.681-101.774,128.681-101.774L128.681-101.774z"/>
-              </g>
-            </g>
-            </svg>
+          <img class="inline-block mem-logo" src="/static/img/logo/linkedin_logo.svg">
           LinkedIn </a> <br>
         {% endif %}
         {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> <svg height="1em" width="1em" viewBox="0 0 1755 1755" xmlns="http://www.w3.org/2000/svg"><path transform="translate(0 1610) scale(1 -1)" d="M896.76 1130.189c-27.618 30.838-59.618 46.19-95.802 46.19-40.952 0-72.382-14.738-94.288-44.15-21.906-29.322-32.864-64.848-32.864-106.584 0-35.548 5.998-71.738 18-108.64 11.958-36.886 31.524-69.814 58.954-98.838 27.334-29.096 59.144-43.616 95.284-43.616 40.288 0 71.76 13.502 94.332 40.492 22.476 26.954 33.756 60.98 33.756 101.962 0 34.904-5.954 71.454-17.906 109.664-11.894 38.262-31.752 72.784-59.466 103.52zM1658.858 1512.573c-64.358 64.424-141.86 96.57-232.572 96.57h-1097.142c-90.712 0-168.14-32.146-232.572-96.57-64.424-64.286-96.57-141.86-96.57-232.572v-1097.142c0-90.712 32.146-168.288 96.57-232.712 64.432-64.146 142-96.432 232.572-96.432h1097.142c90.712 0 168.214 32.286 232.572 96.57 64.432 64.432 96.644 141.86 96.644 232.572v1097.142c0 90.712-32.22 168.288-96.644 232.572zM1297.81 1154.159v-392.126c0-18.154-14.856-33.016-33.016-33.016h-12.156c-18.162 0-33.016 14.856-33.016 33.016v392.126c0 16.12-2.34 29.578 20.188 32.41v52.172l-173.43-142.24c2.004-3.716 3.906-6.092 5.712-9.208 15.242-26.976 23.004-60.526 23.004-101.53 0-31.43-5.238-59.662-15.858-84.598-10.57-24.928-23.428-45.29-38.43-60.972-15.002-15.74-30.048-30.128-45.092-43.074-15.046-12.976-27.904-26.506-38.436-40.55-10.614-14-15.894-28.474-15.894-43.476 0-15.024 6.854-30.288 20.524-45.67 13.62-15.426 30.376-30.376 50.19-45.144 19.85-14.666 39.658-30.946 59.472-48.662 19.858-17.694 36.52-40.456 50.14-68.096 13.722-27.744 20.568-58.288 20.568-91.86 0-44.288-11.294-84.282-33.806-119.882-22.58-35.446-51.998-63.73-88.144-84.472-36.242-20.882-75-36.6-116.334-47.214-41.42-10.518-82.52-15.806-123.568-15.806-25.908 0-52.048 1.996-78.336 6.1-26.382 4.096-52.81 11.33-79.426 21.526-26.668 10.262-50.286 22.864-70.758 37.998-20.524 14.98-37.046 34.312-49.716 57.856-12.668 23.552-18.958 50.022-18.958 79.426 0 34.882 9.714 67.24 29.192 97.404 19.478 29.944 45.282 54.952 77.378 74.76 55.998 34.838 143.858 56.364 263.432 64.498-27.334 34.172-41.048 66.334-41.048 96.432 0 17.122 4.476 35.474 13.334 55.288-14.284-1.996-28.994-3.124-44.002-3.124-64.234 0-118.476 20.882-162.524 62.932-44.046 41.976-66.048 94.522-66.048 158.048 0 6.642 0.19 12.492 0.672 18.974h-261.046l393.618 342.17h651.856l-60.24-47.024v-82.996c22.368-2.874 20.004-16.318 20.004-32.394zM900.382 544.929c-7.52 1.36-18.088 2.122-31.708 2.122-29.382 0-58.288-2.596-86.666-7.782-28.38-5.046-56.378-13.568-83.998-25.592-27.722-11.952-50.096-29.528-67.146-52.766-17.144-23.208-25.666-50.542-25.666-81.994 0-29.974 7.52-56.714 22.572-80.004 15.002-23.142 34.808-41.26 59.428-54.236 24.62-12.998 50.432-22.814 77.378-29.264 26.998-6.408 54.476-9.736 82.476-9.736 55.376 0 103.050 12.47 143.046 37.406 39.906 24.928 59.904 63.422 59.904 115.382 0 10.928-1.522 21.686-4.528 32.19-3.138 10.62-6.24 19.712-9.282 27.26-3.050 7.41-8.858 16.332-17.43 26.616-8.522 10.314-15.046 17.934-19.434 23.004-4.476 5.238-12.852 12.712-25.19 22.594-12.236 9.926-20.048 16.114-23.522 18.402-3.43 2.406-12.332 8.908-26.668 19.456-14.328 10.634-22.184 16.274-23.566 16.94z" /></svg>
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}">
+          <img class="inline-block mem-logo" src="/static/img/logo/gscholar_logo.svg">
           Scholar Citations </a> <br>
         {% endif %}
         {% if person.twitter %}
           
           <a href= "http://twitter.com/{{person.twitter}}">
-            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class=""> 
-            <!-- <path opacity="0" d="M0 0h24v24H0z"></path>  -->
-            <path style="fill:#00acee" d="M23.643 4.937c-.835.37-1.732.62-2.675.733.962-.576 1.7-1.49 2.048-2.578-.9.534-1.897.922-2.958 1.13-.85-.904-2.06-1.47-3.4-1.47-2.572 0-4.658 2.086-4.658 4.66 0 .364.042.718.12 1.06-3.873-.195-7.304-2.05-9.602-4.868-.4.69-.63 1.49-.63 2.342 0 1.616.823 3.043 2.072 3.878-.764-.025-1.482-.234-2.11-.583v.06c0 2.257 1.605 4.14 3.737 4.568-.392.106-.803.162-1.227.162-.3 0-.593-.028-.877-.082.593 1.85 2.313 3.198 4.352 3.234-1.595 1.25-3.604 1.995-5.786 1.995-.376 0-.747-.022-1.112-.065 2.062 1.323 4.51 2.093 7.14 2.093 8.57 0 13.255-7.098 13.255-13.254 0-.2-.005-.402-.014-.602.91-.658 1.7-1.477 2.323-2.41z"></path> 
-            </svg> 
+            <img class="inline-block mem-logo" src="/static/img/logo/twitter_logo.svg">
             @{{person.twitter}} 
           </a> <br>
         {% endif %}

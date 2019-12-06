@@ -1,6 +1,8 @@
 ---
-title: home
-layout: default
+title: Grotjahn Lab @ Scripps
+layout: parallax
+group: home
+banner: static/img/banners/homebanner.png
 ---
 
-# Under Construction: The Grotjahn Lab @ Scripps
+# Grotjahn Lab at Scripps!
