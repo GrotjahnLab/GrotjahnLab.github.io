@@ -5,4 +5,4 @@ group: home
 banner: static/img/banners/homebanner.png
 ---
 
-# Grotjahn Lab at Scripps!
+# Grotjahn Lab at Scripps
