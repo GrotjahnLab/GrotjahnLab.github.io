@@ -17,26 +17,32 @@
   orcid: 0000-0001-5908-7882
   github: bbarad
   pronouns: he/him/his
-  description: "Ben earned his PhD in James Fraser's lab at UCSF, where he developed software tools for data analysis and validation in structural biology, 
-                as well as experimentally investigating the mechanisms by which mammalian chitinases processively hydrolyzed the prevalent polysaccharide chitin. 
-                Prior to that, as an undergraduate in Elizabeth Sattely’s lab at Stanford University, he investigated bacterial degradation of the polymer lignin. 
-                Before joining the Grotjahn lab, he worked at Genentech, where he developed software tools to automate processing of data from single particle cryo-EM.
+  description: "Ben earned his PhD in James Fraser's lab at UCSF, where he developed software tools for data analysis and validation in structural biology, \
+                as well as experimentally investigating the mechanisms by which mammalian chitinases processively hydrolyzd the prevalent polysaccharide chitin. \
+                Prior to that, as an undergraduate in Elizabeth Sattely’s lab at Stanford University, he investigated bacterial degradation of the polymer lignin. \
+                Before joining the Grotjahn lab, he worked at Genentech, where he developed software tools to automate processing of data from single particle cryo-EM. \
 
+                Ben is interested in understanding how protein structure and function is impacted by cellular contexts. His work in the lab focuses on using _in situ_ \
+                cryoelectron tomography to determine both structure and cellular localization in parallel, and to understand how protein structure changes in different \ 
+                cellular environments. He is particularly interested the regulation and function of proteins that polymerize in cells. \
 
-                Ben is interested in understanding how protein structure and function is impacted by cellular contexts. His work in the lab focuses on using _in situ_ 
-                cryoelectron tomography to determine both structure and cellular localization in parallel, and to understand how protein structure changes in different  
-                cellular environments. He is particularly interested the regulation and function of proteins that polymerize in cells.
-
-
-                Outside of research, he is obsessed with finding the perfect cup of coffee, a quest that has
+                Outside of research, he is obsessed with finding the perfect cup of coffee, a quest that has \
                 included learning to roast his own coffee beans."
 
 - name: Michaela Medina
   image: /static/img/members/default.jpg
-  position: Graduate Student
+  position: Graduate Student, Assistant to the Regional Manager
   email: mmedina (at) scripps.edu
   twitter: MichaelaMedin19
-  description: "Assistant to the Regional Manager"
+  description: "Michaela received her undergraduate degree in Biochemistry and Cell Biology from the University of California, San Diego. She conducted her undergraduate 
+                and post-baccalaureate research at the Salk Institute in the lab of Dmitry Lyumkis. In the lab, she utilized biochemical and single particle cryogenic electron 
+                microscopy techniques to better understand the process of gamma retroviral integration. 
+
+
+                Michaela joined the Grotjahn Lab at the Scripps Research Institute for her PhD, where she is interested in using the cellular cryogenic electron tomography to 
+                investigate the morphological changes in mitochondria in response to cellular stress. Outside of lab, Michaela is a classically trained double bassist, an avid 
+                reader, a weekend hiker, and a foodie." 
+
 
 - name: Morgagni
   image: /static/img/members/morgagni.jpg
