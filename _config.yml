@@ -1,7 +1,7 @@
-name: Grotjahn Lab
+title: Grotjahn Lab
 description: Webpage for the Grotjahn lab at scripps.
 
 url: https://GrotjahnLab.github.io
 permalink: pretty
-gems:
+plugins:
   - jekyll-octicons
