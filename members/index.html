@@ -52,8 +52,8 @@ group: members
           <a href= "http://github.com/{{person.github}}"> {% octicon mark-github %} {{person.github}} </a> <br>
         {% endif %}
     </div>
-    <div class="col-sm-8">
-        <p class="text-justify">{{person.description | markdownify}}</p>
+    <div class="col-sm-8 text-justify">
+        {{person.description | markdownify}}
     </div>
 </div>
 {% endfor %}
