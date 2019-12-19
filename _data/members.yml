@@ -33,7 +33,9 @@
 
 - name: Michaela Medina
   image: /static/img/members/default.jpg
-  position: Graduate Student, Assistant to the Regional Manager
+  position: "Graduate Student
+  
+             Assistant to the Regional Manager"
   email: mmedina (at) scripps.edu
   twitter: MichaelaMedin19
   description: "Michaela received her undergraduate degree in Biochemistry and Cell Biology from the University of California, San Diego. She conducted her undergraduate 
