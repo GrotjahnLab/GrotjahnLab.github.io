@@ -24,3 +24,9 @@
     - name: "F1000Prime"
       url: 'https://f1000.com/prime/731819271'
 
+- citation: 'Ge X, **Grotjahn DA**, Welch E, Lyman-Gingerich J, Holguin C, Dimitrova E, Abrams EW, Gupta T, Marlow FL, Yabe T, Adler A, Mullins MC, Pelegri F. *PLOS Genetics* 2014.'
+  date: 201406
+  image: '/static/img/publications/Grotjahn_Pelegri_2014.png'
+  pmid: 24967891
+  pmcid: PMC4072529 
+  pdf: '/static/pdf/Grotjahn_Pelegri_2014.PDF'
