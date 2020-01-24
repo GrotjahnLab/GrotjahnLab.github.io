@@ -1,12 +1,26 @@
+- citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *JBC* 2019.'
+  date: 201909
+  image: '/static/img/publications/Grotjahn_review_2019.png'
+  pmid: 31285262
+  pmcid: PMC6737236 
+  pdf: '/static/pdf/Grotjahn_Review_2019.pdf'
+  links:
+    - name: "Lander Lab"
+      url: 'http://www.lander-lab.com/'
+
 - citation: '**Grotjahn DA**, Chowdhury S, Xu Y, McKenney RJ, Schroer TA, Lander GC. Cryo-electron tomography reveals that dynactin recruits a team of dyneins for processive motility. *NSMB* 2018.'
   date: 201803
-  image: '/static/img/pub/grotjahn_nsmb_2018.jpg'
+  image: '/static/img/publications/Grotjahn_2018_trimmed.gif'
   pmid: 29416113
   pmcid: PMC5969528
-  pdf: '/static/pdf/grotjahn_nsmb_2018.pdf'
+  biorxiv: 182576
+  pdf: '/static/pdf/Grotjahn_DyneinDynactin.pdf'
   emdbs:
     - 7000
     - 7001
   links:
     - name: "Lander Lab"
       url: 'http://www.lander-lab.com/'
+    - name: "F1000Prime"
+      url: 'https://f1000.com/prime/731819271'
+
