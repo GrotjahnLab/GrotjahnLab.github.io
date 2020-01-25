@@ -1,5 +1,5 @@
 - name: Danielle Grotjahn
-  image: /static/img/members/default.jpg
+  image: /static/img/members/Danielle.png
   position: Principal Investigator
   email: grotjahn (at) scripps.edu
   scholar: nt4ofWEAAAAJ
@@ -10,7 +10,7 @@
   description: 'THE BOSS
   [RadioBio Interviews Dr. Danielle Grotjahn](https://soundcloud.com/user-386034408/radiobio-interviews-dr-danielle-grotjahn)' 
 - name: Benjamin Barad
-  image: /static/img/members/default.jpg
+  image: /static/img/members/Ben.png
   position: Postdoc
   email: bbarad (at) scripps.edu
   scholar: XDH9FrwAAAAJ
@@ -33,7 +33,7 @@
                 included learning to roast his own coffee beans."
 
 - name: Michaela Medina
-  image: /static/img/members/default.jpg
+  image: /static/img/members/Michaela.png
   position: "Graduate Student<br>Assistant to the Regional Manager"
   email: mmedina (at) scripps.edu
   twitter: MichaelaMedin19
