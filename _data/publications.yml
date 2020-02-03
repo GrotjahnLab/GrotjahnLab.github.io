@@ -1,3 +1,12 @@
+- citation: '**Grotjahn DA**, Chowdhury S, Lander GC. A guided approach for subtomogram averaging of challenging macromolecular assemblies.'
+  date: 202002
+  image: '/static/img/publications/Grotjahn_2020_STAguided.tif'
+  biorxiv: 930297 
+  pdf: '/static/pdf/Grotjahn_GuidedSTA_2020.pdf'
+  links:
+    - name: "Lander Lab"
+      url: 'http://www.lander-lab.com/'
+
 - citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *JBC* 2019.'
   date: 201909
   image: '/static/img/publications/Grotjahn_review_2019.png'
