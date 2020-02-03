@@ -1,7 +1,7 @@
 - citation: '**Grotjahn DA**, Chowdhury S, Lander GC. A guided approach for subtomogram averaging of challenging macromolecular assemblies.'
   date: 202002
   image: '/static/img/publications/Grotjahn_2020_STAguided.jpg'
-  biorxiv: 930297
+  biorxiv: 2020.02.01.930297
   pdf: '/static/pdf/Grotjahn_GuidedSTA_2020.pdf'
   links:
     - name: "Lander Lab"
