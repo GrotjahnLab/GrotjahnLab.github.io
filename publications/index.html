@@ -26,7 +26,7 @@ group: publications
 
 			<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv}}</a></li>
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
 			{% endif %}
 
 			<!--Chemrxiv - optional -->
