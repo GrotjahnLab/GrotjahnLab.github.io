@@ -2,13 +2,14 @@
 title: Grotjahn Lab Members
 layout: parallax
 group: members
+banner: /static/img/banners/slicer000_01.png
 ---
-
+<!-- 
 <h1>Grotjahn Lab Members</h1>
-
+ -->
 
 {% for person in site.data.members %}
-<hr>
+
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
@@ -56,5 +57,8 @@ group: members
         {{person.description | markdownify}}
     </div>
 </div>
+{% if forloop.last == false %}
+<hr>
+{% endif %}
 {% endfor %}
 <hr>
