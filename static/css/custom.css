@@ -25,3 +25,7 @@ text-align: center;
 /*padding-top: 60px;*/
 /*line-height: 100px;*/
 }
+
+.pubimg {
+	max-width: 100%;
+}
