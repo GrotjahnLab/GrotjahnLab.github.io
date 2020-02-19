@@ -1,7 +1,7 @@
 ---
 title: Lab Research Interests
 layout: parallax
-banner: /static/img/banners/Milling_images-01.png
+banner: /static/img/banners/slicer_003.png
 group: research
 ---
 
