@@ -29,6 +29,7 @@ line-height: 60px;
 .paral h1 {
 color: #f5f5f5;
 font-size: 50px;
+text-shadow: 3px 3px 6px #050505;
 /*padding-top: 60px;*/
 /*line-height: 100px;*/
 }
