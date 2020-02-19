@@ -2,7 +2,7 @@
 title: Grotjahn Lab @ Scripps
 layout: parallax
 group: home
-banner: static/img/banners/homebanner.png
+banner: static/img/banners/Image_pastelsunset_cropped_V1.png
 ---
 
 # Grotjahn Lab at Scripps
