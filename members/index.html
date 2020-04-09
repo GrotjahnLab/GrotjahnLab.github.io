@@ -19,6 +19,7 @@ banner: /static/img/banners/slicer000_01.png
           <em>{{person.pronouns}}</em> <br>
         {% endif %}
         {{person.position}} <br>
+        {% if person.cv %} <a href="{{person.cv}}" alt="{{person.name}} CV">curriculum vitae</a><br>{% endif %}
         {% if person.email %}
         <em>{{person.email}}</em> <br>
         {%endif%}

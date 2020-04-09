@@ -1,6 +1,6 @@
 ---
 title: Lab Research Interests
-layout: parallax
+layout: parallax_lead
 banner: /static/img/banners/slicer_003.png
 group: research
 ---
