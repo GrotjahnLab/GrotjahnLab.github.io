@@ -46,28 +46,11 @@ For more information, check out [RadioBio Interviews Dr. Danielle Grotjahn](http
 - name: Ashim Rai
   image: /static/img/members/Ashim.png
   position: Postdoc
-  email: ashimrai (at) scripps.edu`
+  email: ashimrai (at) scripps.edu
   description: "Ashim received his integrated Masters-PhD degree from [Prof. Roop Mallik's lab](https://www.tifr.res.in/~roop/) at TIFR, Mumbai, India. During his PhD., he worked on reconstituting organelle transport in vitro and developing optical trap-based force spectroscopy tools to measure mechanical forces on single organelles. This sparked an early interest in trying to understand the physical basis of biological processes. This led to pursuing a postdoc position in Prof. [Sivaraj Sivaramakrishnan’s lab](http://proteinacrobaticslab.umn.edu/) at University of Minnesota where he developed and used single-molecule and protein-engineering methods to investigate the structure-function mechanisms of protein complexes involved in cargo transport. In the Grotjahn lab, Ashim is combining his skills in protein-engineering and reconstitution biology to develop methods to overcome the “electron-density” barrier in cryo-electron tomography for structural mapping of small protein complexes involved in mitochondrial fission.
 
 
 Outside of lab, Ashim likes to spend his time experimenting with cooking, reading and bothering anyone who would care to listen about Japanese “kaiju” movies."
-
-- name: Michaela Medina
-  image: /static/img/members/Michaela.png
-  position: "Graduate Student<br>Assistant to the Regional Manager"
-  email: mmedina (at) scripps.edu
-  twitter: MichaelaMedin19
-  description: "Michaela received her undergraduate degree in Biochemistry and Cell Biology from the University of California, San Diego. She conducted her undergraduate 
-                and post-baccalaureate research at the Salk Institute in the lab of [Dmitry Lyumkis](https://lyumkis.salk.edu/). In the lab, she utilized biochemical and single particle cryogenic electron 
-                microscopy techniques to better understand the process of gamma retroviral integration. 
-
-
-                Michaela joined the Grotjahn Lab at the Scripps Research Institute for her PhD, where she is interested in using the cellular cryogenic electron tomography to 
-                investigate the morphological changes in mitochondria in response to cellular stress. 
-
-
-Outside of lab, Michaela is a classically trained double bassist, an avid 
-                reader, a weekend hiker, and a foodie." 
 
 - name: Jess Rabuck-Gibbons
   image: /static/img/members/Jess.png
@@ -83,7 +66,22 @@ Jessica is currently a postdoc in the [Williamson Lab](https://williamson.scripp
 
 Outside of the lab, Jessica loves to bake and to cook, and you can often find her in local restaurants, coffee shops, and breweries."
 
+- name: Michaela Medina
+  image: /static/img/members/Michaela.png
+  position: "Graduate Student<br>Assistant to the Regional Manager"
+  email: mmedina (at) scripps.edu
+  twitter: MichaelaMedin19
+  description: "Michaela received her undergraduate degree in Biochemistry and Cell Biology from the University of California, San Diego. She conducted her undergraduate
+                and post-baccalaureate research at the Salk Institute in the lab of [Dmitry Lyumkis](https://lyumkis.salk.edu/). In the lab, she utilized biochemical and single particle cryogenic electron
+                microscopy techniques to better understand the process of gamma retroviral integration.
 
+
+                Michaela joined the Grotjahn Lab at the Scripps Research Institute for her PhD, where she is interested in using the cellular cryogenic electron tomography to
+                investigate the morphological changes in mitochondria in response to cellular stress.
+
+
+Outside of lab, Michaela is a classically trained double bassist, an avid
+                reader, a weekend hiker, and a foodie."
 - name: Morgagni
   image: /static/img/members/morgagni.jpg
   position: Mascot
