@@ -1,6 +1,8 @@
 - citation: 'Basanta B, Chowdhury S, Lander GC, **Grotjahn DA**. A guided approach for subtomogram averaging of challenging macromolecular assemblies. *JSBx* 2020'
   date: 201811
   image: '/static/img/publications/Grotjahn_2020_STAguided.jpg'
+  pmid: 33319208
+  pmcid: PMC7724198  
   biorxiv: 2020.02.01.930297
   pdf: '/static/pdf/GuidedSTA_JSBx.pdf'
   links:
