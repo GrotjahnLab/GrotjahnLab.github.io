@@ -2,6 +2,8 @@
   date: 212903
   image: '/static/img/publications/CellPAINT_2021.jpeg'
   pdf: '/static/pdf/2021_CellPaint.pdf'
+  pmid: 30668455
+  pmcid: PMC6456043
   zenodo: 
     - code: '4606923'
       description: 'Tomogram used for CellPAINT hypothesis generation'
