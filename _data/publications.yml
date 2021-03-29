@@ -1,3 +1,12 @@
+- citation: 'Gardner A, Ludovic A, **Fuentes D***, Maritan M, **Barad BA**, **Medina, M**, Olson AJ, **Grotjahn DA**, Goodsell DS. CellPAINT: Turnkey illustration of molecular cell biology. *Front. Bioinform* 2021'
+  date: 212903
+  image: '/static/img/publications/CellPAINT_2021.jpeg'
+  pdf: '/static/pdf/2021_CellPaint.pdf'
+  zenodo: 4606923
+  links:
+    - name: "Molecular Graphics Laboratory"
+      url: 'https://ccsb.scripps.edu/goodsell/'
+
 - citation: 'Basanta B, Chowdhury S, Lander GC, **Grotjahn DA**. A guided approach for subtomogram averaging of challenging macromolecular assemblies. *JSBx* 2020'
   date: 201811
   image: '/static/img/publications/Grotjahn_2020_STAguided.jpg'
