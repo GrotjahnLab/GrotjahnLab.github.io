@@ -2,7 +2,9 @@
   date: 212903
   image: '/static/img/publications/CellPAINT_2021.jpeg'
   pdf: '/static/pdf/2021_CellPaint.pdf'
-  zenodo: 'https://zenodo.org/record/4606923#.YGJe3UhKhTY'
+  zenodo: 
+  - code: '4606923'
+    description: 'Tomogram used for CellPAINT hypothesis generation'
   links:
     - name: "Molecular Graphics Laboratory"
       url: 'https://ccsb.scripps.edu/goodsell/'
