@@ -30,7 +30,6 @@ max_width: 800px
 ### FELLOWSHIPS AND AWARDS
 <div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Damon Runyon-Rachleff Innovation Award</p></div>
-<div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>2018</strong></div><div class="col col-sm-10"><p>Harold M. Weintraub Graduate Student Award</p></div>
 <div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Achievement Rewards for College Scientists (ARCS)/ROCHE Scholarship</p></div>
 <div class="col-sm col-sm-2"><strong>2015-2018</strong></div><div class="col col-sm-10"><p>Achievement Rewards for College Scientists (ARCS) Fellowship</p></div>
