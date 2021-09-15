@@ -1,3 +1,11 @@
+- citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *bioRxiv* 2021'
+  date: 211109
+  image: '/static/img/publications/Glycerol_2021.png'
+  pdf: '/static/pdf/Glycerol_2021_biorxiv.full.pdf'
+  links:
+    - name: "Lander Lab"
+      url: 'http://www.lander-lab.com/'
+
 - citation: 'Gardner A, Ludovic A, **Fuentes D**, Maritan M, **Barad BA**, **Medina, M**, Olson AJ, **Grotjahn DA**, Goodsell DS. CellPAINT: Turnkey illustration of molecular cell biology. *Front. Bioinform* 2021'
   date: 212903
   image: '/static/img/publications/CellPAINT_2021.jpeg'
