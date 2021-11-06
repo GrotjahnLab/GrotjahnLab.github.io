@@ -8,9 +8,10 @@ banner: /static/img/banners/slicer000_01.png
 <h1>Grotjahn Lab Members</h1>
  -->
 
-{% for person in site.data.members %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+{% assign sorted_members = site.members | sort: 'startdate' | sort: 'order' %}
+{% for person in sorted_members %}
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
         <img class="img-responsive pubimg" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
@@ -55,7 +56,7 @@ banner: /static/img/banners/slicer000_01.png
         {% endif %}
     </div>
     <div class="col-sm-8 text-justify">
-        {{person.description | markdownify}}
+        {{person.content}}
     </div>
 </div>
 {% if forloop.last == false %}

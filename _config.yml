@@ -5,3 +5,10 @@ url: https://GrotjahnLab.github.io
 permalink: pretty
 plugins:
   - jekyll-octicons
+collections:
+  members: 
+    output: False
+  alumni:
+    output: False
+  publications:
+    output: False
