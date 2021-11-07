@@ -1,6 +1,6 @@
 ---
 title: Grotjahn Lab Members
-layout: parallax
+layout: members
 group: members
 banner: /static/img/banners/slicer000_01.png
 ---
@@ -44,14 +44,12 @@ banner: /static/img/banners/slicer000_01.png
           Scholar Citations </a> <br>
         {% endif %}
         {% if person.twitter %}
-          
           <a href= "http://twitter.com/{{person.twitter}}">
             <img class="inline-block mem-logo" src="/static/img/logo/twitter_logo.svg">
             @{{person.twitter}} 
           </a> <br>
         {% endif %}
         {% if person.github %}
-          
           <a href= "http://github.com/{{person.github}}"> {% octicon mark-github %} {{person.github}} </a> <br>
         {% endif %}
     </div>

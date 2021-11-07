@@ -1,9 +1,10 @@
 ---
 name: Ashim Rai
 image: /static/img/members/Ashim.jpg
-position: Postdoc
+position: Postdoctoral Fellow
 email: ashimrai (at) scripps.edu
 status: alum
+pronouns: he/him/his
 startdate: 2020-04-01
 enddate: 2021-06-01
 ---

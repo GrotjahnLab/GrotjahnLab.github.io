@@ -10,5 +10,7 @@ collections:
     output: False
   alumni:
     output: False
+  interns:
+    output: False
   publications:
     output: False
