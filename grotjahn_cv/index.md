@@ -20,7 +20,8 @@ max_width: 800px
 
 ### PROFESSIONAL EXPERIENCE
 <div class="row" style="max-width: {{page.max_width}}">
-<div class="col-sm col-sm-2"><strong>2019-Present</strong></div><div class="col col-sm-10"><p>Scripps Fellow, Department of Integrative Structural and Computational Biology (ISCB), Scripps Research</p></div>
+<div class="col-sm col-sm-2"><strong>2021-Present</strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Integrative Structural and Computational Biology (ISCB), Scripps Research</p></div>
+<div class="col-sm col-sm-2"><strong>2019-2021</strong></div><div class="col col-sm-10"><p>Scripps Fellow, Department of Integrative Structural and Computational Biology (ISCB), Scripps Research</p></div>
 <div class="col-sm col-sm-2"><strong>2018-2019</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Laboratory of Dr. Grant Jensen, Department of Biology, California Institute of Technology (Caltech)</p></div>
 <div class="col-sm col-sm-2"><strong>2012-2013</strong></div><div class="col col-sm-10"><p>Research Intern, Laboratory of Dr. Yevgenya Grinblat, Department of neuroscience, University of Wisconsin-Madison</p></div>
 <div class="col-sm col-sm-2"><strong>2010- 2012</strong></div><div class="col col-sm-10"><p>Associate Research Specialist, Laboratory of Dr. Francisco Pelegri, Department of Genetics and Medical Genetics, University of Wisconsin-Madison</p></div>

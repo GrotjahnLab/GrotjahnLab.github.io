@@ -8,10 +8,13 @@
     - name: "Jensen Lab"
       url: 'http://www.jensenlab.caltech.edu/'
 
-- citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *bioRxiv* 2021'
-  date: 211109
+- citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallogr D Struct Biol* 2022'
+  date: 220101
   image: '/static/img/publications/Glycerol_2021.png'
-  pdf: '/static/pdf/Glycerol_2021_biorxiv.full.pdf'
+  pmid: 34981768 
+  pmcid: PMC8725161
+  biorxiv: 2021.09.10.459874
+  pdf: '/static/pdf/Basanta_glycerol_2021_actacrysD.pdf'
   links:
     - name: "Lander Lab"
       url: 'http://www.lander-lab.com/'
