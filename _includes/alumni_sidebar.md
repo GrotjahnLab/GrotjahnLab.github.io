@@ -57,7 +57,7 @@
 {% endfor %}
 <br>
 
-## Summer Interns
+## Interns
 
 {% assign sorted = (site.interns | sort: "enddate") | reverse %}
 {% for intern in sorted %}

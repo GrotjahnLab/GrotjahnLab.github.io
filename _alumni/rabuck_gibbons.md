@@ -8,7 +8,7 @@ orcid: 0000-0001-9209-1066
 status: alum 
 subsequent: Scientist I at Takeda
 startdate: 2019-01-01
-enddate:2021-12-31
+enddate: 2021-12-31
 ---
 Jessica attended Duquesne University for her undergraduate degree and completed her honors thesis the Mihailescu lab, where she studied the interactions of short RNAs that formed G quadruplexes and the Fragile X Mental Retardation Protein. Her work in nucleic acid:protein interactions and utilizing various biophysical characterization techniques lead her to Brandon Ruotolo’s lab at the University of Michigan, where she developed a native mass spectrometry technique to distinguish between binding modes of small molecules and peptides to their target proteins.
 
