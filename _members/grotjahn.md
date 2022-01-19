@@ -1,6 +1,6 @@
 ---
 name: Danielle Grotjahn
-image: /static/img/members/Danielle.jpg
+image: /static/img/members/danielle.jpg
 position: Principal Investigator
 order: 0
 cv: "/grotjahn_cv"
