@@ -5,6 +5,7 @@ position: Graduate Student<br>Assistant to the Regional Manager
 order: 2
 email: mmedina (at) scripps.edu
 twitter: MichaelaMedin19
+orcid: 0000-0001-6346-5137
 startdate: 2019-08-01
 ---
 Michaela received her undergraduate degree in Biochemistry and Cell Biology from the University of California, San Diego. She conducted her undergraduate and post-baccalaureate research at the Salk Institute in the lab of [Dmitry Lyumkis](https://lyumkis.salk.edu/). In the lab, she utilized biochemical and single particle cryogenic electron microscopy techniques to better understand the process of gamma retroviral integration.

@@ -4,6 +4,7 @@ image: /static/img/members/Dan.jpg
 position: Graduate Student
 order: 2
 email: dfuentes (at) scripps.edu
+orcid: 0000-0002-9687-0902
 pronouns: he/him/his
 startdate: 2021-03-01
 ---
