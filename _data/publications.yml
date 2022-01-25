@@ -1,4 +1,4 @@
-- citation: '**Barad BA†, Medina M†, Fuentes D,**, Wiseman, RL, **Grotjahn DA§**. A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography. *bioRxiv* 2022 †Equal contribution §Corresponding author'
+- citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography. *bioRxiv* 2022 †Equal contribution §Corresponding author'
   image: '/static/img/publications/surfacemorphometrics-01.png'
   biorxiv: 2022.01.23.477440
   pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics.pdf'
@@ -6,7 +6,7 @@
     - name: "Surface Morphometrics"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
     - name: "Wiseman Lab"
-      url: 'http://www.https://wiseman.scripps.edu/'
+      url: 'http://www.wiseman.scripps.edu/'
 
 - citation: 'Mageswaran, SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial fission revealed by cryo-electron tomgoraphy. *bioRxiv* 2021 †Equal contribution §Corresponding authors'
   image: '/static/img/publications/Apr20_TS02_ModelMT.png'
