@@ -2,6 +2,8 @@
 name: Benjamin Barad
 image: /static/img/members/Ben.png
 position: Postdoc
+funding: >- 
+ [American Cancer Society](https://cancer.org) Postdoctoral Fellow
 order: 1
 email: bbarad (at) scripps.edu
 scholar: XDH9FrwAAAAJ
