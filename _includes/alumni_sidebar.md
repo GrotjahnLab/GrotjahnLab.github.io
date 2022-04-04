@@ -17,6 +17,9 @@
 {% else %}
 {{ start }} - {{ end }}<br>
 {% endif %}
+{% if member.subsequent %}
+    Subsequently: {{ member.subsequent }}<br>
+{% endif %}
 
 {% if member.cv %} <a href="{{member.cv}}" alt="{{member.name}} CV">curriculum vitae</a><br>{% endif %}
 {% if member.email %}
