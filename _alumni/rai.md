@@ -5,6 +5,7 @@ position: Postdoctoral Fellow
 email: ashimrai (at) scripps.edu
 status: alum
 pronouns: he/him/his
+subsequent: Faculty at Ahmedabad University
 startdate: 2020-04-01
 enddate: 2021-06-01
 ---
