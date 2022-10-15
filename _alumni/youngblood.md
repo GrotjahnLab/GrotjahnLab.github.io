@@ -4,8 +4,10 @@ image: /static/img/members/Marina.jpg
 position: Research Technician
 order: 7
 email: myoungblood (at) scripps.edu
-twitter: 
+status: alum
+subsequent: Graduate Student at UC-Riverside
 startdate: 2021-11-08
+enddate: 2022-08-30
 ---
 Marina earned her BSc in Cellular and Molecular Biology from the University of La Verne and graduated from the Honors Program. She conducted her senior thesis research in the lab of Stacey Darling-Novak where she studied first leaf formation in S. plicata identifying novel auxin-mediated genes.
 
