@@ -4,9 +4,9 @@
   pdf: '/static/pdf/Newman_nucleoidrelease_2022_biorxiv.pdf'
   links:
     - name: "Shadel Lab"
-      url: 'http://www.shadel.salk.edu/'
+      url: 'http://shadel.salk.edu/'
     - name: "Manor Lab"
-      url: 'http://www.manor.salk.edu/'
+      url: 'http://manor.salk.edu/'
 
 - citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *bioRxiv* 2022'
   image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
