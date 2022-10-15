@@ -1,3 +1,13 @@
+- citation: 'Newman LE, Tadepalle N, Weiser Novak S, Schiavon CR, Rojas GR, Chevez JA, Lemersal I, **Medina M**, Rocha S, Towers CG, **Grotjahn DA**, Manor U, Shadel GS. Endosomal removal and disposal of dysfunctional, immunostimulatory mitochondrial DNA. *bioRxiv* 2022'
+  image: '/static/img/publications/Newman2022-01.png'
+  biorxiv: 2022.10.12.511955
+  pdf: '/static/pdf/Newman_nucleoidrelease_2022_biorxiv.pdf'
+  links:
+    - name: "Shadel Lab"
+      url: 'http://www.shadel.salk.edu/'
+    - name: "Manor Lab"
+      url: 'http://www.manor.salk.edu/'
+
 - citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *bioRxiv* 2022'
   image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
   biorxiv: 2022.02.23.481593
