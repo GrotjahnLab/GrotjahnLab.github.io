@@ -1,3 +1,24 @@
+- citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. *Journal of Cell Biology* 2023 †Equal contribution §Corresponding author'
+  image: '/static/img/publications/surfacemorphometrics-01.png'
+  biorxiv: 2022.01.23.477440
+  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics_Final.pdf'
+  pmid: 36786771
+  links:
+    - name: "Surface Morphometrics on Github"
+      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
+    - name: "EMPIAR Deposition (Tilt Series, Tomograms, Segmentations, and Surfaces)"
+      url: 'https://www.ebi.ac.uk/empiar/EMPIAR-11370/'
+    - name: "Zenodo Deposition (Quantifications and Statistics)"
+      url: 'https://zenodo.org/record/7510830'
+    - name: "Review Commons Reviews"
+      url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
+    - name: "Wiseman Lab @ Scripps Research"
+      url: 'http://www.wiseman.scripps.edu/'
+    - name: "Preprint Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1485829710533693443'
+    - name: "Journal Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1625573810249555968'
+
 - citation: 'Newman LE, Tadepalle N, Weiser Novak S, Schiavon CR, Rojas GR, Chevez JA, Lemersal I, **Medina M**, Rocha S, Towers CG, **Grotjahn DA**, Manor U, Shadel GS. Endosomal removal and disposal of dysfunctional, immunostimulatory mitochondrial DNA. *bioRxiv* 2022'
   image: '/static/img/publications/Newman2022-01.png'
   biorxiv: 2022.10.12.511955
@@ -13,16 +34,6 @@
   biorxiv: 2022.02.23.481593
   pdf: '/static/pdf/Parea_PAPerk_2022biorxiv.pdf'
   links:
-    - name: "Wiseman Lab"
-      url: 'http://www.wiseman.scripps.edu/'
-
-- citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography. *bioRxiv* 2022 †Equal contribution §Corresponding author'
-  image: '/static/img/publications/surfacemorphometrics-01.png'
-  biorxiv: 2022.01.23.477440
-  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics.pdf'
-  links:
-    - name: "Surface Morphometrics"
-      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
     - name: "Wiseman Lab"
       url: 'http://www.wiseman.scripps.edu/'
 
