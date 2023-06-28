@@ -1,6 +1,6 @@
 ---
 name: Joan Lee
-image: /static/img/members/joan.png
+image: /static/img/members/joan.jpg
 position: Research Technician
 order: 7
 email: jolee (at) scripps.edu

@@ -1,3 +1,12 @@
+- citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *EMBO J* 2023'
+  image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
+  biorxiv: 2022.02.23.481593
+  pdf: '/static/pdf/Parea_PAPerk_2023EMBOj.pdf'
+  pdf: '37306086'
+  links:
+    - name: "Wiseman Lab"
+      url: 'http://www.wiseman.scripps.edu/'
+
 - citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. *Journal of Cell Biology* 2023 †Equal contribution §Corresponding author'
   image: '/static/img/publications/surfacemorphometrics-01.png'
   biorxiv: 2022.01.23.477440
@@ -28,14 +37,6 @@
       url: 'https://shadel.salk.edu/'
     - name: "Manor Lab"
       url: 'https://manor.salk.edu/'
-
-- citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *bioRxiv* 2022'
-  image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
-  biorxiv: 2022.02.23.481593
-  pdf: '/static/pdf/Parea_PAPerk_2022biorxiv.pdf'
-  links:
-    - name: "Wiseman Lab"
-      url: 'http://www.wiseman.scripps.edu/'
 
 - citation: 'Mageswaran, SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial fission revealed by cryo-electron tomography. *bioRxiv* 2021 †Equal contribution §Corresponding authors'
   image: '/static/img/publications/Apr20_TS02_ModelMT.png'

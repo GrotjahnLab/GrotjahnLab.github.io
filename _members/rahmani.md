@@ -1,7 +1,7 @@
 ---
 name: Hamidreza Rahmani
 image: /static/img/members/Hamid.jpg
-position: Postdoc
+position: Staff Scientist
 order: 1
 email: hrahmani (at) scripps.edu 
 scholar: N14aDiEAAAAJ
