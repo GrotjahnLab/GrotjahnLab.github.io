@@ -2,7 +2,7 @@
   image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
   biorxiv: 2022.02.23.481593
   pdf: '/static/pdf/Parea_PAPerk_2023EMBOj.pdf'
-  pdf: '37306086'
+  pmid: '37306086'
   links:
     - name: "Wiseman Lab"
       url: 'http://www.wiseman.scripps.edu/'

@@ -1,6 +1,6 @@
 ---
 name: Hamid (Hamidreza) Rahmani
-image: /static/img/members/hamid.jpg
+image: /static/img/members/Hamid.jpg
 position: Staff Scientist
 order: 1
 email: hrahmani (at) scripps.edu 
