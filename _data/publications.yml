@@ -13,6 +13,12 @@
   pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics_Final.pdf'
   pmid: 36786771
   links:
+    - name: "Press Release"
+      url: 'https://www.scripps.edu/news-and-events/press-room/2023/20230215-grotjahn-mitochondria.html/'
+    - name: "Journal Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1625573810249555968'
+    - name: "Preprint Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1485829710533693443'
     - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
     - name: "EMPIAR Deposition (Tilt Series, Tomograms, Segmentations, and Surfaces)"
@@ -23,10 +29,6 @@
       url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
     - name: "Wiseman Lab @ Scripps Research"
       url: 'http://www.wiseman.scripps.edu/'
-    - name: "Preprint Tweetorial"
-      url: 'https://twitter.com/benjaminbarad/status/1485829710533693443'
-    - name: "Journal Tweetorial"
-      url: 'https://twitter.com/benjaminbarad/status/1625573810249555968'
 
 - citation: 'Newman LE, Tadepalle N, Weiser Novak S, Schiavon CR, Rojas GR, Chevez JA, Lemersal I, **Medina M**, Rocha S, Towers CG, **Grotjahn DA**, Manor U, Shadel GS. Endosomal removal and disposal of dysfunctional, immunostimulatory mitochondrial DNA. *bioRxiv* 2022'
   image: '/static/img/publications/Newman2022-01.png'

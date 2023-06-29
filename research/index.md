@@ -11,5 +11,16 @@ Although commonly referred to as *“Powerhouses of the Cell”* for their role 
  
 In the Grotjahn Lab, we are interested in studying the functional and structural interactions that mediate these stress-induced modulations to mitochondrial networks using techniques that directly bridge the intersection between cellular, molecular and structural biology fields, including whole-cell cryo-electron tomography (cryo-ET), cryo-focused ion beam (cryo-FIB) milling, and correlative light and electron microscopy (CLEM). Through our high-resolution cellular imaging efforts, we shine new light the physiological and pathogenic mechanisms that contribute to mitochondrial dysfunction and disease.
  
- 
+For more information on the lab's research, check out:
+
+[Dr Danielle Grotjahn: how cryo electron tomography is advancing our understanding of cellular biology](https://www.youtube.com/watch?v=MdAxI6PZWmw)
+
+[Cryo-ET sheds new light on mitochondrial dysfunction at Scripps Research Institute](https://www.thermofisher.com/blog/atomic-resolution/mitochondrial-dysfunction-cryo-electron-tomography/)
+
+[Science Changing Life Podcast, Episode 38 - Danielle Grotjahn: What mitochondria tell us about disease, stress and cell death](https://soundcloud.com/sciencechanginglife/episode-38-danielle-grotjahn-what-mitochondria-tell-us-about-disease-stress-and-cell-death)
+
+[RadioBio Interviews Dr. Danielle Grotjahn](https://soundcloud.com/user-386034408/radiobio-interviews-dr-danielle-grotjahn)
+
+[Part 1](https://www.scripps.edu/news-and-events/blog/read/index.php?id=555) and[Part 2](https://www.scripps.edu/news-and-events/blog/read/index.php?id=556) of Scripps Research [blog](https://www.scripps.edu/news-and-events/blog/).
+~                                        
 
