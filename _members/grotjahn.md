@@ -23,9 +23,14 @@ Danielle returned to Scripps Research in 2019 to start her lab as a [faculty mem
 
 In addition to exciting pursuits in the lab, Danielle is co-director of the Scripps Graduate Cell Biology course, a low-key yogi, a lifelong Deadhead, and a [Michael Scott](https://www.indiewire.com/2015/03/the-office-10-years-later-why-michael-scott-is-one-of-the-most-original-characters-of-all-time-248114/) aficionado. 
 
-For more information, check out:
+For more information on the lab's research, check out:
+
 [Dr Danielle Grotjahn: how cryo electron tomography is advancing our understanding of cellular biology](https://www.youtube.com/watch?v=MdAxI6PZWmw)
+
 [Cryo-ET sheds new light on mitochondrial dysfunction at Scripps Research Institute](https://www.thermofisher.com/blog/atomic-resolution/mitochondrial-dysfunction-cryo-electron-tomography/)
+
 [Science Changing Life Podcast, Episode 38 - Danielle Grotjahn: What mitochondria tell us about disease, stress and cell death](https://soundcloud.com/sciencechanginglife/episode-38-danielle-grotjahn-what-mitochondria-tell-us-about-disease-stress-and-cell-death)
+
 [RadioBio Interviews Dr. Danielle Grotjahn](https://soundcloud.com/user-386034408/radiobio-interviews-dr-danielle-grotjahn)
-[Part 1](https://www.scripps.edu/news-and-events/blog/read/index.php?id=555) and [Part 2](https://www.scripps.edu/news-and-events/blog/read/index.php?id=556) of Scripps Research [blog](https://www.scripps.edu/news-and-events/blog/).
+
+[Part 1](https://www.scripps.edu/news-and-events/blog/read/index.php?id=555) and[Part 2](https://www.scripps.edu/news-and-events/blog/read/index.php?id=556) of Scripps Research [blog](https://www.scripps.edu/news-and-events/blog/).
