@@ -1,3 +1,12 @@
+- citation: 'Aiyer A,  Baldwin PR, Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie ME, Passos DO, Đorđević-Marquardt S, Mietzsch M, Hull JA, Hoshika S, Barad BA, Grotjahn DA, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D.Overcoming resolution attenuation during tilted cryo-EM data collection. *bioRxiv* 2023'
+  image: '/static/img/publications/Sriram_2023_biorxiv.png'
+  biorxiv: 2023.07.14.548955
+  pdf: '/static/pdf/Sriram_biorxiv2023.pdf'
+  pmid: 
+  links:
+    - name: "Lyumkis Lab"
+      url: 'http://www.lyumkis.salk.edu/'
+
 - citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *EMBO J* 2023'
   image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
   biorxiv: 2022.02.23.481593
