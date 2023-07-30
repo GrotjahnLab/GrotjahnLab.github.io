@@ -1,6 +1,6 @@
 ---
 name: Michaela Horger
-image: /static/img/members/Michaela.png
+image: /static/img/members/horger.png
 position: Graduate Student
 order: 2 
 email: michaela.horger (at) scripps.edu
