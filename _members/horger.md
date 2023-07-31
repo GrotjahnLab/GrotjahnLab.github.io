@@ -12,4 +12,4 @@ Michaela received her undergraduate degree in Neuroscience and Cognitive Science
 
 Michaela is now a PhD student in the Grotjahn lab at Scripps Research where she is interested in leveraging superresolution microscopy techniques to unravel the complexities of mitochondrial fission machinery under conditions of cellular stress.
 
-While outside of the lab, Michaela enjoys slacklining, tending to her plants, and studying disability theory and justice
+While outside of the lab, Michaela enjoys slacklining, tending to her plants, and learning about disability theory and justice.
