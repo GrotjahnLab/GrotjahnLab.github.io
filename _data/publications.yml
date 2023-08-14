@@ -1,3 +1,14 @@
+- citation: 'Mageswaran, SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial constriction revealed by cryo-electron tomography. *Biophys J* 2023 †Equal contribution §Corresponding authors'
+  image: '/static/img/publications/Apr20_TS02_ModelMT.png'
+  biorxiv: 2021.12.13.472487
+  pdf: '/static/pdf/Mageswaran_Grotjahn_MitochondrialConstriction_BioPhysJ.pdf'
+  pmid: 37533259
+  links:
+    - name: "scripts for quantifying filament architectures"
+      url: 'https://github.com/GrotjahnLab/measure_models/'
+    - name: "Jensen Lab"
+      url: 'http://www.jensenlab.caltech.edu/'
+
 - citation: 'Aiyer A,  Baldwin PR, Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie ME, Passos DO, Đorđević-Marquardt S, Mietzsch M, Hull JA, Hoshika S, **Barad BA, Grotjahn DA**, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D.Overcoming resolution attenuation during tilted cryo-EM data collection. *bioRxiv* 2023'
   image: '/static/img/publications/Sriram_2023_biorxiv.png'
   biorxiv: 2023.07.14.548955
@@ -48,16 +59,6 @@
       url: 'https://shadel.salk.edu/'
     - name: "Manor Lab"
       url: 'https://manor.salk.edu/'
-
-- citation: 'Mageswaran, SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial fission revealed by cryo-electron tomography. *bioRxiv* 2021 †Equal contribution §Corresponding authors'
-  image: '/static/img/publications/Apr20_TS02_ModelMT.png'
-  biorxiv: 2021.12.13.472487
-  pdf: '/static/pdf/Mageswaran_Grotjahn_MitochondrialFission-CryoET_biorxiv.pdf'
-  links:
-    - name: "scripts for quantifying filament architectures"
-      url: 'https://github.com/GrotjahnLab/measure_models/'
-    - name: "Jensen Lab"
-      url: 'http://www.jensenlab.caltech.edu/'
 
 - citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallogr D Struct Biol* 2022'
   date: 220101
