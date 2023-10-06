@@ -1,4 +1,17 @@
-- citation: 'Mageswaran, SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial constriction revealed by cryo-electron tomography. *Biophys J* 2023 †Equal contribution §Corresponding authors'
+- citation: 'Chawla R†, Tom JKA†, **Boyd T**, **Grotjahn DA**, Park D, Deniz AA, Racki LR. Reentrant DNA shellts tune polyphosphate condensate size. *bioRxiv* 2023 †Equal contribution'
+  image: '/static/img/publications/Chawla_Tom_Biorxiv_2023.png'
+  biorxiv: 2023.09.13.557044
+  pdf: '/static/pdf/Chawla_Tom_Biorxiv_2023.pdf'
+  pmid: 
+  links:
+    - name: "Racki Lab"
+      url: 'https://www.rackilab.org/'
+    - name: "Deniz Lab"
+      url: 'https://www.scripps.edu/deniz/index.html'
+    - name: "Park Lab"
+      url: 'https://www.the-park-lab.org/'
+
+- citation: 'Mageswaran SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial constriction revealed by cryo-electron tomography. *Biophys J* 2023 †Equal contribution §Corresponding authors'
   image: '/static/img/publications/Apr20_TS02_ModelMT.png'
   biorxiv: 2021.12.13.472487
   pdf: '/static/pdf/Mageswaran_Grotjahn_MitochondrialConstriction_BioPhysJ.pdf'
