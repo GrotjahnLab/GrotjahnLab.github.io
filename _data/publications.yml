@@ -1,3 +1,34 @@
+- citation: 'Newman LE, Tadepalle N, Weiser Novak S, Rojas GR, Tadepalle N, Schiavon CR, **Grotjahn DA**, Towers CG, Tremblay M, Donnelly MP, Ghosh S, **Medina M**, Rocha S, Rodriguez-Enriquez R, Chevez JA, Lemersal I, Manor U, Shadel GS. Mitochondrial DNA replication stress triggers a pro-inflammatory endosomal pathway of nucleoid disposal. *Nature Cell Biology* 2024'
+  image: '/static/img/publications/Newman2022-01.png'
+  biorxiv: 2022.10.12.511955
+  pdf: '/static/pdf/Newman_nucleoidrelease_2024_natcellbio.pdf'
+  links:
+    - name: "Shadel Lab"
+      url: 'https://shadel.salk.edu/'
+    - name: "Manor Lab"
+      url: 'https://manor.salk.edu/'
+
+
+- citation: 'Klupt S, Fam KT, Zhang X, Chodisetti PK, Mehmood A, **Boyd T, Grotjahn D**, Park D, Hang HC. Secreted antigen A peptidoglycan hydrolase is essential for Enterococcus faecium cell separation and priming of immune checkpoint inhibitor cancer therapy. *eLife* 2024'
+  image: '/static/img/publications/Klupt_elife_2024.png'
+  biorxiv: 2023.11.19.567738
+  pdf: '/static/pdf/Klupt_elife_2024.pdf'
+  pmid: 38014356
+  links:
+    - name: "Hang Lab"
+      url: 'https://hang-lab.com/'
+    - name: "Park Lab"
+      url: 'https://www.the-park-lab.org/home'
+
+- citation: 'Aiyer A,  Baldwin PR, Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie ME, Passos DO, Đorđević-Marquardt S, Mietzsch M, Hull JA, Hoshika S, **Barad BA, Grotjahn DA**, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D.Overcoming resolution attenuation during tilted cryo-EM data collection. *Nat Commun* 2024'
+  image: '/static/img/publications/Sriram_2023_biorxiv.png'
+  biorxiv: 2023.07.14.548955
+  pdf: '/static/pdf/Sriram_NatComm2024.pdf'
+  pmid: 38195598
+  links:
+    - name: "Lyumkis Lab"
+      url: 'http://www.lyumkis.salk.edu/'
+
 - citation: 'Chawla R†, Tom JKA†, **Boyd T**, **Grotjahn DA**, Park D, Deniz AA, Racki LR. Reentrant DNA shellts tune polyphosphate condensate size. *bioRxiv* 2023 †Equal contribution'
   image: '/static/img/publications/Chawla_Tom_Biorxiv_2023.png'
   biorxiv: 2023.09.13.557044
@@ -21,15 +52,6 @@
       url: 'https://github.com/GrotjahnLab/measure_models/'
     - name: "Jensen Lab"
       url: 'http://www.jensenlab.caltech.edu/'
-
-- citation: 'Aiyer A,  Baldwin PR, Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie ME, Passos DO, Đorđević-Marquardt S, Mietzsch M, Hull JA, Hoshika S, **Barad BA, Grotjahn DA**, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D.Overcoming resolution attenuation during tilted cryo-EM data collection. *bioRxiv* 2023'
-  image: '/static/img/publications/Sriram_2023_biorxiv.png'
-  biorxiv: 2023.07.14.548955
-  pdf: '/static/pdf/Sriram_biorxiv2023.pdf'
-  pmid: 
-  links:
-    - name: "Lyumkis Lab"
-      url: 'http://www.lyumkis.salk.edu/'
 
 - citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *EMBO J* 2023'
   image: '/static/img/publications/PareaV_PAPerk_2022biorxiv.png'
@@ -62,16 +84,6 @@
       url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
     - name: "Wiseman Lab @ Scripps Research"
       url: 'http://www.wiseman.scripps.edu/'
-
-- citation: 'Newman LE, Tadepalle N, Weiser Novak S, Schiavon CR, Rojas GR, Chevez JA, Lemersal I, **Medina M**, Rocha S, Towers CG, **Grotjahn DA**, Manor U, Shadel GS. Endosomal removal and disposal of dysfunctional, immunostimulatory mitochondrial DNA. *bioRxiv* 2022'
-  image: '/static/img/publications/Newman2022-01.png'
-  biorxiv: 2022.10.12.511955
-  pdf: '/static/pdf/Newman_nucleoidrelease_2022_biorxiv.pdf'
-  links:
-    - name: "Shadel Lab"
-      url: 'https://shadel.salk.edu/'
-    - name: "Manor Lab"
-      url: 'https://manor.salk.edu/'
 
 - citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallogr D Struct Biol* 2022'
   date: 220101
