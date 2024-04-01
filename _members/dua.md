@@ -2,7 +2,7 @@
 name: Nitish Dua
 image: /static/img/members/Nitish.jpg
 position: Postdoc
-order: 2
+order: 1
 email: ndua (at) scripps.edu 
 scholar: 
 twitter: nitish_dua3
