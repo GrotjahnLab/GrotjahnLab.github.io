@@ -11,6 +11,7 @@ orcid: 0000-0001-5908-7882
 github: bbarad
 pronouns: he/him/his
 startdate: 2019-11-01
+enddate: 2024-01-01
 ---
 Ben earned his PhD in James Fraser's lab at UCSF, where he developed software tools for data analysis and validation in structural biology, as well as experimentally investigating the mechanisms by which mammalian chitinases processively hydrolyze the prevalent polysaccharide chitin. Prior to that, as an undergraduate in Elizabeth Sattely’s lab at Stanford University, he investigated bacterial degradation of the polymer lignin. Before joining the Grotjahn lab, he worked at Genentech, where he developed software tools to automate processing of data from single particle cryo-EM.
 
