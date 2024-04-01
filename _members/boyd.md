@@ -2,7 +2,7 @@
 name: Tumara Boyd
 image: /static/img/members/Tumara.jpg
 position: Research Technician
-order: 8
+order: 4
 email: tboyd (at) scripps.edu
 twitter: 
 startdate: 2022-10-26

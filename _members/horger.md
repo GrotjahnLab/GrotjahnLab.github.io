@@ -2,7 +2,7 @@
 name: Michaela Horger
 image: /static/img/members/horger.png
 position: Graduate Student
-order: 2 
+order: 3 
 email: michaela.horger (at) scripps.edu
 twitter: 
 orcid: 

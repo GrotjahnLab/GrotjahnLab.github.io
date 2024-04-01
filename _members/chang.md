@@ -2,7 +2,7 @@
 name: Atty (Ya-Ting) Chang 
 image: /static/img/members/atty.jpg
 position: Graduate Student
-order: 2
+order: 3
 email: ychang (at) scripps.edu
 scholar: 2Ka4KUMAAAAJ 
 twitter: atty_chang

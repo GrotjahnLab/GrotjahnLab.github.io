@@ -2,7 +2,7 @@
 name: Joan Lee
 image: /static/img/members/joan.jpg
 position: Research Technician
-order: 7
+order: 4
 email: jolee (at) scripps.edu
 twitter: 
 startdate: 2022-06-01

@@ -2,7 +2,7 @@
 name: Dan Fuentes
 image: /static/img/members/Dan.jpg
 position: Graduate Student
-order: 2
+order: 3
 funding: "[National Science Foundation](https://www.nsf.gov) Graduate Research Fellow"
 email: dfuentes (at) scripps.edu
 orcid: 0000-0002-9687-0902

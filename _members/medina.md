@@ -2,7 +2,7 @@
 name: Michaela Medina
 image: /static/img/members/Michaela.png
 position: Graduate Student<br>Assistant to the Regional Manager
-order: 2
+order: 3
 funding: "[ARCS Foundation](https://san-diego.arcsfoundation.org/) Fellow [*NSPIRE](https://nspireinitiative.wordpress.com/2023-fellows-and-keynote-speakers/) Fellow"
 email: mmedina (at) scripps.edu
 twitter: MichaelaMedin19
