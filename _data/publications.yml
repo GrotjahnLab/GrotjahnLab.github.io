@@ -1,3 +1,22 @@
+- citation: 'Mahalingan KK, **Grotjahn DA**, Li Y, Lander GC, Zehr EA, and Roll-Mecak A. Structural basis for alpha-tubulin-specific and modification history dependent glutamate chain elongation by tubulin tyrosine ligase-like family enzymes. *Nature Chemical Biology* 2024'
+  image: '/static/img/publications/Mahalingan_NatChemBio_2024.png'
+  pdf: '/static/pdf/Mahalingan_NatChemBio_2024.pdf'
+  pmid: 38658656
+  links:
+    - name: "Roll-Mecak Lab"
+      url: 'https://research.ninds.nih.gov/roll-mecak-lab'
+    - name: "Lander Lab"
+      url: 'https://www.lander-lab.com/'
+
+- citation: 'Boneš E, Khan D, Bohak C, **Barad BA, Grotjahn DA**, Viola I,  Theußl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *arXiv* 2024'
+  image: '/static/img/publications/midsurfer_arxiv2024.png'
+  pdf: '/static/pdf/'Midsurfer_arxiv_2024.pdf
+  links:
+    - name: "KAUST Visualization Core Lab"
+      url: 'https://corelabs.kaust.edu.sa/labs/visualization-core-lab'
+    - name: "KAUST NANOVIS: Nanovisualization Research Group"
+      url: 'https://cemse.kaust.edu.sa/nanovis'
+
 - citation: 'Newman LE, Tadepalle N, Weiser Novak S, Rojas GR, Tadepalle N, Schiavon CR, **Grotjahn DA**, Towers CG, Tremblay M, Donnelly MP, Ghosh S, **Medina M**, Rocha S, Rodriguez-Enriquez R, Chevez JA, Lemersal I, Manor U, Shadel GS. Mitochondrial DNA replication stress triggers a pro-inflammatory endosomal pathway of nucleoid disposal. *Nature Cell Biology* 2024'
   image: '/static/img/publications/Newman2022-01.png'
   biorxiv: 2022.10.12.511955
