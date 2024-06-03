@@ -8,7 +8,7 @@
     - name: "Lander Lab"
       url: 'https://www.lander-lab.com/'
 
-- citation: 'Boneš E, Khan D, Bohak C, **Barad BA, Grotjahn DA**, Viola I,  Theußl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *arXiv* 2024'
+- citation: 'Bones E, Khan D, Bohak C, **Barad BA, Grotjahn DA**, Viola I, Theussl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *arXiv* 2024'
   image: '/static/img/publications/midsurfer_arxiv2024.png'
   pdf: '/static/pdf/'Midsurfer_arxiv_2024.pdf
   links:
@@ -27,7 +27,6 @@
       url: 'https://shadel.salk.edu/'
     - name: "Manor Lab"
       url: 'https://manorlab.ucsd.edu/'
-
 
 - citation: 'Klupt S, Fam KT, Zhang X, Chodisetti PK, Mehmood A, **Boyd T, Grotjahn D**, Park D, Hang HC. Secreted antigen A peptidoglycan hydrolase is essential for Enterococcus faecium cell separation and priming of immune checkpoint inhibitor cancer therapy. *eLife* 2024'
   image: '/static/img/publications/Klupt_elife_2024.png'
