@@ -2,7 +2,7 @@
 title: Grotjahn Lab @ Scripps
 layout: parallax_lead
 group: home
-banner: static/img/banners/snapshot2.png
+banner: static/img/banners/morphometrics_1.png
 ---
 
 
