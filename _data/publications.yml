@@ -8,10 +8,10 @@
     - name: "Lander Lab"
       url: 'https://www.lander-lab.com/'
 
-- citation: 'Bones E, Khan D, Bohak C, **Barad BA**, **Grotjahn DA**, Viola I, Theussl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *arXiv* 2024'
+- citation: 'Boneš E, Khan D, Bohak C, **Barad BA, Grotjahn DA**, Viola I, Theußl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *arXiv* 2024'
   image: '/static/img/publications/midsurfer_arxiv2024.png'
-  pdf: '/static/pdf/'Midsurfer_arxiv_2024.pdf
-  pmid: 
+  pdf: '/static/pdf/Midsurfer_arxiv_2024.pdf'
+  arxiv: 2405.19339
   links:
     - name: "KAUST Visualization Core Lab"
       url: 'https://corelabs.kaust.edu.sa/labs/visualization-core-lab'
