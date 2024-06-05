@@ -35,6 +35,10 @@ group: publications
 			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a></li>
 			{% endif %}
 
+			{% if publication.arxiv %}
+			<li>arXiv preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" alt="arxiv preprint link: {{publication.arxiv}}">{{publication.arxiv}}</a></li>
+			{% endif %}
+
 			<!-- PDF -->
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
 
