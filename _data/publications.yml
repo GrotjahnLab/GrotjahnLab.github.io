@@ -1,3 +1,12 @@
+- citation: 'Baron KR†, **Oviedo S†** Krasny S, Zaman M, Aldakhlallah R, Mathur P, Pfeffer G, Bollong MJ, Shutt T, **Grotjahn DA§** and Wiseman RL§. Pharmacologic activation of integrated stress response kinases inhibits pathologic mitochondrial fragmentation. *bioRxiv* 2024 †Equal contribution §Corresponding author'
+  image: '/static/img/publications/baron_oviedo_biorxiv_2024.pdf'
+  biorxiv: 2024.06.10.598126
+  pdf: '/static/pdf/2024BaronOviedobioRXIV.png'
+  pmid: 
+  links:
+    - name: "Wiseman Lab @ Scripps Research"
+      url: 'http://www.wiseman.scripps.edu/'
+
 - citation: 'Mahalingan KK, **Grotjahn DA**, Li Y, Lander GC, Zehr EA, and Roll-Mecak A. Structural basis for alpha-tubulin-specific and modification history dependent glutamate chain elongation by tubulin tyrosine ligase-like family enzymes. *Nature Chemical Biology* 2024'
   image: '/static/img/publications/Mahalingan_NatChemBio_2024.png'
   pdf: '/static/pdf/Mahalingan_NatChemBio_2024.pdf'
