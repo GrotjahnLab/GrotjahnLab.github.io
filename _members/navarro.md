@@ -8,7 +8,7 @@ email: mnavarro (at) scripps.edu
 pronouns: she/her/hers
 startdate: 2024-06-11
 ---
-Meghan will receive her undergraduate degree in Biological Science from Cal State San Marcos inspired by her professors in CTREE who support bridging the gap between minorities and science! Through the Bridges program and many mentors, she found a love for both medicine and biological research, working first in The Kim Lab at CSUSM. In this lab, she investigated CCTG DNA repeat instability in budding yeast.
+Meghan will receive her undergraduate degree in Biological Science from Cal State San Marcos (CSUSM) inspired by her professors in [CTREE](https://www.csusm.edu/ctree/index.html) who support bridging the gap between minorities and science! Through the [Bridges program](https://www.palomar.edu/stem/programs/bridges-scholar-program/) and many mentors, she found a love for both medicine and biological research, working first in [The Kim Lab](https://kimlabcsusm.weebly.com/) at CSUSM. In this lab, she investigated CCTG DNA repeat instability in budding yeast.
 
 Meghan is now an intern at The Grotjahn Lab, studying how phospholipid membrane composition of the mitochondria changes in relation to cristae curvedness.
 
