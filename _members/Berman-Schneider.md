@@ -5,6 +5,7 @@ position: Summer Undergraduate Research Intern
 order: 5
 funding: "[Carleton College Summer Research Stipend](https://www.carleton.edu/research/)"
 email: nberman (at) scripps.edu
+pronouns: she/her/hers
 startdate: 2024-06-10
 ---
 Natalie is currently pursuing her undergraduate degree in Biology from Carleton College in Northfield, Minnesota. She participates in student government, coaches ice skating, and works for the Student Activities Office planning events for the college community. After completing her undergraduate degree, Natalie plans on attending medical school.
