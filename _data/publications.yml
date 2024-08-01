@@ -2,6 +2,7 @@
   image: '/static/img/publications/Chang_2024_co-trans_biorxiv.png'
   biorxiv: 2024.07.17.604013
   pdf: '/static/pdf/Chang_2024_co-trans_biorxiv.pdf'
+  pmid: 39071314
   emdbs:
   links:
     - name: "Zid Lab"
@@ -11,7 +12,7 @@
   image: '/static/img/publications/2024BaronOviedobioRXIV.png'
   biorxiv: 2024.06.10.598126
   pdf: '/static/pdf/baron_oviedo_biorxiv_2024.pdf'
-  pmid: 
+  pmid: 38915623 
   links:
     - name: "Wiseman Lab @ Scripps Research"
       url: 'http://www.wiseman.scripps.edu/'
@@ -31,6 +32,8 @@
   pdf: '/static/pdf/Midsurfer_arxiv_2024.pdf'
   arxiv: 2405.19339
   links:
+    - name: "MidSurfer on Github"
+      url: 'https://github.com/kaust-vislab/MidSurfer'
     - name: "KAUST Visualization Core Lab"
       url: 'https://corelabs.kaust.edu.sa/labs/visualization-core-lab'
     - name: "KAUST NANOVIS: Nanovisualization Research Group"
