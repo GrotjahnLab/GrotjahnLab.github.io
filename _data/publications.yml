@@ -1,3 +1,12 @@
+- citation: '**Chang Y, Barad BA, Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the  local membrane environment for protein import. *bioRxiv* 2024.§Corresponding author'
+  image: '/static/img/publications/Chang_2024_co-trans_biorxiv.png'
+  biorxiv: 2024.07.17.604013
+  pdf: '/static/img/publications/Chang_2024_co-trans_biorxiv.pdf'
+  emdbs:
+  links:
+    - name: "Zid Lab"
+      url: 'http://https://zidlab.ucsd.edu/'
+
 - citation: 'Baron KR†, **Oviedo S†** Krasny S, Zaman M, Aldakhlallah R, Mathur P, Pfeffer G, Bollong MJ, Shutt T, **Grotjahn DA§** and Wiseman RL§. Pharmacologic activation of integrated stress response kinases inhibits pathologic mitochondrial fragmentation. *bioRxiv* 2024 †Equal contribution §Corresponding author'
   image: '/static/img/publications/2024BaronOviedobioRXIV.png'
   biorxiv: 2024.06.10.598126
