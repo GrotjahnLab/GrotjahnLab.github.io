@@ -2,9 +2,11 @@
 name: Philipp Gerlof 
 image: /static/img/members/Philipp.jpg
 position: Master's Student
-order: 3
+status: alum
 email: pgerlof (at) scripps.edu
+subsequent: PhD student at The Max Planck Institute of Biochemistry
 startdate: 2023-11-06
+enddate: 2024-06-28
 ---
 Philipp received his Bachelor's degree in Biochemistry with distinction from the Goethe University Frankfurt in Germany. During his bachelor thesis, he used isothermal titration calorimetry to study avidity effects of a DARPin dimer against the p63/p73 herterotetramer.
 

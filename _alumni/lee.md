@@ -2,10 +2,12 @@
 name: Joan Lee
 image: /static/img/members/joan.jpg
 position: Research Technician
-order: 4
+status: alum
 email: jolee (at) scripps.edu
+subsequent: PhD Student at Stanford University 
 twitter: 
 startdate: 2022-06-01
+enddate: 2024-07-26
 ---
 Joan received her undergraduate degree in Biochemistry/Chemistry, with the highest departmental honors, from the University of California, San Diego. During her undergraduate research, she studied the binding affinity between NFκB and transcription coactivators, such as ribosomal protein S3, and their binding affinity with various DNA using biochemical techniques.
 

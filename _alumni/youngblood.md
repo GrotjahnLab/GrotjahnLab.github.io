@@ -5,7 +5,7 @@ position: Research Technician
 order: 7
 email: myoungblood (at) scripps.edu
 status: alum
-subsequent: Graduate Student at UC-Riverside
+subsequent: PhD Student at UC-Riverside
 startdate: 2021-11-08
 enddate: 2022-08-30
 ---
