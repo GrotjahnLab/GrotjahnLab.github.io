@@ -23,7 +23,7 @@
     - name: "Barad Lab"
       url: 'https://baradlab.com/'
 
-- citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, ** Grotjahn DA**,Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
+- citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, **Grotjahn DA**, Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
   image: '/static/img/publications/Liang_drugchat_preprint_2024.png'
   biorxiv: 2024.09.29.615524
   pdf: '/static/pdf/Liang_drugchat_preprint_2024.pdf'
