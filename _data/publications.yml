@@ -1,3 +1,58 @@
+- citation: 'Chawla R†, Tom JKA†, **Boyd T**, Tu NH, Bai T **Grotjahn DA**, Park D, Deniz AA, Racki LR. Reentrant DNA shellts tune polyphosphate condensate size. *Nature Communications* 2024 †Equal contribution'
+  image: '/static/img/publications/Chawla_Tom_Biorxiv_2023.png'
+  biorxiv: 2023.09.13.557044
+  pdf: '/static/pdf/Chawla_Tom_NatComm_2024.pdf'
+  pmid: 39462120
+  links:
+    - name: "Racki Lab"
+      url: 'https://www.rackilab.org/'
+    - name: "Deniz Lab"
+      url: 'https://www.scripps.edu/deniz/index.html'
+    - name: "Park Lab"
+      url: 'https://www.the-park-lab.org/'
+
+- citation: 'Dahmane S, Schexnaydre E, Zhang J, Rosendal E, Chotiwan N, Singh BK, Yau W, Lundmark R, **Barad BA, Grotjahn DA**, Liese S, Carlson A, Overby A, Carlson L. Cryo-electron tomography reveals coupled flavivirus replication, budding and maturation. *bioRxiv* 2024.'
+  image: '/static/img/publications/Dahmane_Flavivirus_preprint_2024.png'
+  biorxiv: 2024.10.13.618056
+  pdf: '/static/pdf/Dahmane_Flavivirus_preprint_2024.pdf'
+  pmid: 39416041
+  emdbs:
+  links:
+    - name: "Carlson Lab"
+      url: 'https://www.carlsonlab.se/'
+    - name: "Barad Lab"
+      url: 'https://baradlab.com/'
+
+- citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, ** Grotjahn DA**,Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
+  image: '/static/img/publications/Liang_drugchat_preprint_2024.png'
+  biorxiv: 2024.09.29.615524
+  pdf: '/static/pdf/Liang_drugchat_preprint_2024.pdf'
+  pmid:
+  emdbs:
+  links:
+    - name: "Pengtao Xie Lab"
+      url: 'https://pengtaoxie.github.io//'
+
+- citation: 'Zhang L, Guo H, Schaffer L, Ko YS, Singh D, **Rahmani H, Grotjahn DA**, Villa E, Gilson M, Wang W, Ideker T, Xing E , Xie P. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models. *bioRxiv* 2024.'
+  image: '/static/img/publications/Zhang_ProteinAligner_preprint_2024.png'
+  biorxiv: 2024.10.06.616870
+  pdf: '/static/pdf/Zhang_ProteinAligner_preprint_2024.pdf'
+  pmid:
+  emdbs:
+  links:
+    - name: "Pengtao Xie Lab"
+      url: 'https://pengtaoxie.github.io//'
+
+- citation: 'Huo M, Guo H, Cheng X, Singh D, **Rahmani H**, Li Shen, **Gerlof P**, Ideker T, **Grotjahn DA**, Villa E, Song L, Xie P. Multi-Modal Large Language Model Enables Protein Function Prediction. *bioRxiv* 2024.'
+  image: '/static/img/publications/Huo_ProteinChat_2024.png'
+  biorxiv: 2024.08.19.608729
+  pdf: '/static/pdf/Huo_ProteinChat_ResearchSquarePreprint_2024.pdf'
+  pmid: 
+  emdbs:
+  links:
+    - name: "Pengtao Xie Lab"
+      url: 'https://pengtaoxie.github.io//'
+
 - citation: '**Chang Y, Barad BA, Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the  local membrane environment for protein import. *bioRxiv* 2024.§Corresponding author'
   image: '/static/img/publications/Chang_2024_co-trans_biorxiv.png'
   biorxiv: 2024.07.17.604013
@@ -8,10 +63,10 @@
     - name: "Zid Lab"
       url: 'https://zidlab.ucsd.edu/'
 
-- citation: 'Baron KR†, **Oviedo S†** Krasny S, Zaman M, Aldakhlallah R, Mathur P, Pfeffer G, Bollong MJ, Shutt T, **Grotjahn DA§** and Wiseman RL§. Pharmacologic activation of integrated stress response kinases inhibits pathologic mitochondrial fragmentation. *bioRxiv* 2024 †Equal contribution §Corresponding author'
+- citation: 'Baron KR†, **Oviedo S†** Krasny S, Zaman M, Aldakhlallah R, Mathur P, Pfeffer G, Bollong MJ, Shutt T, **Grotjahn DA§** and Wiseman RL§. Pharmacologic activation of integrated stress response kinases inhibits pathologic mitochondrial fragmentation. *eLife* 2024 †Equal contribution §Corresponding author'
   image: '/static/img/publications/2024BaronOviedobioRXIV.png'
   biorxiv: 2024.06.10.598126
-  pdf: '/static/pdf/baron_oviedo_biorxiv_2024.pdf'
+  pdf: '/static/pdf/baron_oviedo_eLife_2024.pdf'
   pmid: 38915623 
   links:
     - name: "Wiseman Lab @ Scripps Research"
@@ -54,7 +109,7 @@
   image: '/static/img/publications/Klupt_elife_2024.png'
   biorxiv: 2023.11.19.567738
   pdf: '/static/pdf/Klupt_elife_2024.pdf'
-  pmid: 38014356
+  pmid: 38857064
   links:
     - name: "Hang Lab"
       url: 'https://hang-lab.com/'
@@ -69,19 +124,6 @@
   links:
     - name: "Lyumkis Lab"
       url: 'https://lyumkis.salk.edu/'
-
-- citation: 'Chawla R†, Tom JKA†, **Boyd T**, **Grotjahn DA**, Park D, Deniz AA, Racki LR. Reentrant DNA shellts tune polyphosphate condensate size. *bioRxiv* 2023 †Equal contribution'
-  image: '/static/img/publications/Chawla_Tom_Biorxiv_2023.png'
-  biorxiv: 2023.09.13.557044
-  pdf: '/static/pdf/Chawla_Tom_Biorxiv_2023.pdf'
-  pmid: 
-  links:
-    - name: "Racki Lab"
-      url: 'https://www.rackilab.org/'
-    - name: "Deniz Lab"
-      url: 'https://www.scripps.edu/deniz/index.html'
-    - name: "Park Lab"
-      url: 'https://www.the-park-lab.org/'
 
 - citation: 'Mageswaran SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial constriction revealed by cryo-electron tomography. *Biophys J* 2023 †Equal contribution §Corresponding authors'
   image: '/static/img/publications/Apr20_TS02_ModelMT.png'
