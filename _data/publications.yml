@@ -1,3 +1,16 @@
+- citation: '**Chang Y, Barad BA,**, Hamid J, ** Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the  local membrane environment for protein import. *Journal of Cell Biology* 2025.§Corresponding author'
+  image: '/static/img/publications/Chang_2024_co-trans_biorxiv.png'
+  biorxiv: 2024.07.17.604013
+  pdf: '/static/pdf/Chang_Cyt-mitoRibos_JCB_2025.pdf'
+  pmid: 39071314
+  emdbs:
+    - 48751
+    - 48752 
+emdbs:
+  links:
+    - name: "Zid Lab"
+      url: 'https://zidlab.ucsd.edu/'
+
 - citation: 'Chawla R†, Tom JKA†, **Boyd T**, Tu NH, Bai T **Grotjahn DA**, Park D, Deniz AA, Racki LR. Reentrant DNA shellts tune polyphosphate condensate size. *Nature Communications* 2024 †Equal contribution'
   image: '/static/img/publications/Chawla_Tom_Biorxiv_2023.png'
   biorxiv: 2023.09.13.557044
@@ -52,16 +65,6 @@
   links:
     - name: "Pengtao Xie Lab"
       url: 'https://pengtaoxie.github.io//'
-
-- citation: '**Chang Y, Barad BA, Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the  local membrane environment for protein import. *bioRxiv* 2024.§Corresponding author'
-  image: '/static/img/publications/Chang_2024_co-trans_biorxiv.png'
-  biorxiv: 2024.07.17.604013
-  pdf: '/static/pdf/Chang_2024_co-trans_biorxiv.pdf'
-  pmid: 39071314
-  emdbs:
-  links:
-    - name: "Zid Lab"
-      url: 'https://zidlab.ucsd.edu/'
 
 - citation: 'Baron KR†, **Oviedo S†** Krasny S, Zaman M, Aldakhlallah R, Mathur P, Pfeffer G, Bollong MJ, Shutt T, **Grotjahn DA§** and Wiseman RL§. Pharmacologic activation of integrated stress response kinases inhibits pathologic mitochondrial fragmentation. *eLife* 2024 †Equal contribution §Corresponding author'
   image: '/static/img/publications/2024BaronOviedobioRXIV.png'
