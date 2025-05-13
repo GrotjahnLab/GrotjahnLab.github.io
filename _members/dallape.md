@@ -4,10 +4,9 @@ image: /static/img/members/Andrea.png
 position: Postdoc
 order: 2
 email: adallape (at) scripps.edu 
-scholar:  
 twitter: daddea.bsky.social
 orcid: 
-pronouns: he/him/his
+github: daddea
 startdate: 2025-03-31
 ---
 Andrea recently completed his PhD at the University of Trento (Italy) in collaboration with the University of Hamburg (Germany), under the supervision of [Prof. Daniel Wilson](https://www.chemie.uni-hamburg.de/en/institute/bc/arbeitsgruppen/wilson/personen.html). His project focused on the structural analysis of bacterial translation initiation using single-particle cryo-EM. Despite the topic being extensively studied, he was fascinated to uncover new structural details about this crucial step of translation.
