@@ -14,6 +14,10 @@
   link: "/members"
   group: members
 
+- name: media
+  link: "/media"
+  group: media
+
 - name: contact
   link: "/contact"
   group: contact
