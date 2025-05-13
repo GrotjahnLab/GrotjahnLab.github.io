@@ -6,5 +6,5 @@ banner: static/img/banners/morphometrics_1.png
 ---
 
 
-The Grotjahn lab research program focuses on understanding how mitochondrial networks change shape in response to genetic, pharmacological, or environmental stress. By utilizing multidisciplinary imaging techniques, including cellular cryo-electron tomography and correlative light and electron microscopy, our lab exposes the uncharted depths of cellular landscapes to define how the precise organization of subcellular structures regulates mitochondrial homeostasis, and how disruptions to these molecular interactions gives rise to disease pathogenesis.
+The Grotjahn lab research program uncovers mechanisms by which mitochondria remodel their shape, architecture, and composition in response to changing cellular demands or stressors. Our long-term goal is to leverage these structural and functional insights to illuminate new therapeutic targets for treating diseases associated with mitochondrial dysfunction.  
 

@@ -1,3 +1,13 @@
+- citation: '**Medina M†, Chang Y†, Rahmani H, Fuentes D**, Barad BA§, **Grotjahn DA§**. Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments . *bioRxiv* 2025.†Equal contribution §Corresponding author'
+  image: '/static/img/publications/thickness.png'
+  biorxiv: 2025.04.30.651574
+  pdf: '/static/pdf/thickness_biorxiv.pdf'
+  pmid: 
+  emdbs:
+  links:
+    - name: "Barad Lab"
+      url: 'https://baradlab.com/'
+
 - citation: '**Chang Y, Barad BA,** Hamid J, **Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the  local membrane environment for protein import. *Journal of Cell Biology* 2025.§Corresponding author'
   image: '/static/img/publications/Chang_2024_co-trans_biorxiv.png'
   biorxiv: 2024.07.17.604013
