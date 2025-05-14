@@ -9,7 +9,7 @@ Once thought to be static, bean-shaped organelles, mitochondria are now recogniz
 
 Our lab combines recent advances in cellular cryo-electron tomography (cryo-ET) and super-resolution fluorescence microscopy to define the structural and functional interactions that regulate mitochondrial behavior under stress and changing cellular demands. Through our innovative “structure-mapping” pipeline, we investigate the molecular mechanisms underlying (1) mitochondrial division (fission), (2) the mitochondrial stress response, and (3) mitochondrial protein import.
 
-![GrotjahnLabResearchProgram](https://grotjahnlab.org/static/img/logo/Researchprogramoverview.png)
+#![GrotjahnLabResearchProgram](https://grotjahnlab.org/static/img/logo/Researchprogramoverview.png)
 
 Get the scoop on our research straight from our voices: head to the [Media](https://grotjahnlab.org/media/) page to explore the lab’s featured lectures, podcasts, and interviews.
 ~                                        
