@@ -6,5 +6,4 @@ banner: static/img/banners/morphometrics_1.png
 ---
 
 
-The Grotjahn lab research program uncovers mechanisms by which mitochondria remodel their shape, architecture, and composition in response to changing cellular demands or stressors. Our long-term goal is to leverage these structural and functional insights to illuminate new therapeutic targets for treating diseases associated with mitochondrial dysfunction.  
-
+The Grotjahn Lab connects molecular structure with cellular context to study how mitochondria remodel their shape, composition, and function in response to changing cellular demands and stressors. Our goal is to uncover fundamental mechanisms of mitochondrial adaptation that could inform new therapeutic strategies for disease.
