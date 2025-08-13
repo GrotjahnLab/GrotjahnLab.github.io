@@ -5,20 +5,10 @@ banner: /static/img/banners/slicer_003.png
 group: research
 ---
 
-Although commonly referred to as *“Powerhouses of the Cell”* for their role in metabolism and ATP generation, mitochondria are also expert *“Stress Sensors of the Cell”*, reflecting their contribution as a central hub for integrating several cell stress pathways. Interestingly, mitochondrial networks undergo dramatic morphological remodeling in response to varying stress conditions. In fact, a hallmark feature of many human  diseases is the presence of mitochondria with severely altered morphologies that reflect their impaired function. Although the link between mitochondria structure, function,  and disease pathology is well established, the cellular mechanisms that facilitate these shape changes and cause organellar dysfunction remain poorly defined.
- 
-My lab leverages recent advancements in cellular cryo-electron tomography (cryo-ET) and superresolution fluorescence microscopy to define the critical structural and functional interactions that regulate mitochondrial function in the face of changing cellular demands or stressors. We use our innovative “structure-mapping” pipeline to uncover the molecular mechanisms involved in (1) mitochondrial division (i.e., fission), (2) mitochondrial stress response, and (3) mitochondrial protein import. 
- 
-For more information on the lab's research, check out:
+Once thought to be static, bean-shaped organelles, mitochondria are now recognized as highly dynamic structures that continuously undergo fission and fusion. While balancing fission and fusion maintains overall organelle homeostasis, cellular stress can tip this equilibrium, selectively hyperactivating one of these opposing processes. Decades of elegant fluorescence microscopy and biochemical experiments have highlighted the spatiotemporal dynamics and protein players involved in these mitochondrial remodeling pathways. *However, what remains hidden are the intricate molecular structure of these players—their assembly, spatial organization, and conformations—that enable dynamic functional organellar remodeling.* We propose that unveiling these structural intricacies will yield profound insights into previously unimaginable levels of mitochondrial regulation that can be therapeutically targeted to mitigate mitochondrial dysfunction implicated in many human diseases, such as neurodegeneration and cancer. 
 
-[Dr Danielle Grotjahn: how cryo electron tomography is advancing our understanding of cellular biology](https://www.youtube.com/watch?v=MdAxI6PZWmw)
+Our lab combines recent advances in cellular cryo-electron tomography (cryo-ET) and super-resolution fluorescence microscopy to define the structural and functional interactions that regulate mitochondrial behavior under stress and changing cellular demands. Through our innovative “structure-mapping” pipeline, we investigate the molecular mechanisms underlying (1) mitochondrial division (fission), (2) the mitochondrial stress response, and (3) mitochondrial protein import.
 
-[Cryo-ET sheds new light on mitochondrial dysfunction at Scripps Research Institute](https://www.thermofisher.com/blog/atomic-resolution/mitochondrial-dysfunction-cryo-electron-tomography/)
-
-[Science Changing Life Podcast, Episode 38 - Danielle Grotjahn: What mitochondria tell us about disease, stress and cell death](https://soundcloud.com/sciencechanginglife/episode-38-danielle-grotjahn-what-mitochondria-tell-us-about-disease-stress-and-cell-death)
-
-[RadioBio Interviews Dr. Danielle Grotjahn](https://soundcloud.com/user-386034408/radiobio-interviews-dr-danielle-grotjahn)
-
-[Part 1](https://www.scripps.edu/news-and-events/blog/read/index.php?id=555) and[Part 2](https://www.scripps.edu/news-and-events/blog/read/index.php?id=556) of Scripps Research [blog](https://www.scripps.edu/news-and-events/blog/).
+Get the scoop on our research straight from our voices: head to the [Media](https://grotjahnlab.org/media/) page to explore the lab’s featured lectures, podcasts, and interviews.
 ~                                        
 
