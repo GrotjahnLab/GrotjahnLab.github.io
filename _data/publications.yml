@@ -1,9 +1,9 @@
-- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curr Opin Struct Biol.* 2025. 
+- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curr Opin Struct Biol.* 2025.' 
   image: '/static/img/publications/2025/2025_Grotjahn_CurrOpin_Seg.png' 
   pdf: '/static/pdf/2025_Grotjahn_CurrOpin_segmentation.pdf'
   pmid: 40645092
 
-- citation: 'Bora P†, Zaman M†, **Oviedo S**, Kutseikin S, Madrazo N, Mathur P, Pannikkat M, Krasny S, Chu A, Johnson KA, **Grotjahn DA**, Shutt TE§, Wiseman RL§. Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *bioRxiv* 2025.†Co-first authors, §Co-corresponding authors.
+- citation: 'Bora P†, Zaman M†, **Oviedo S**, Kutseikin S, Madrazo N, Mathur P, Pannikkat M, Krasny S, Chu A, Johnson KA, **Grotjahn DA**, Shutt TE§, Wiseman RL§. Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *bioRxiv* 2025.†Co-first authors, §Co-corresponding authors.'
   image: '/static/img/publications/2025_BoraP_ISRact_biorxiv/2025BorabioRXIV.png'
   biorxiv: 2025.04.30.651574
   pdf: '/static/pdf/2025/2025_Bora_ISRactivators_biorxiv.pdf '
