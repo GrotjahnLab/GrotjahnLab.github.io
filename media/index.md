@@ -2,7 +2,7 @@
 title: Grotjahn Lab Media
 layout: parallax
 group: media
-banner: img/site/banners/media.png
+banner: /static/img/banners/media.png
 ---
 
 # Public Lectures, Podcasts, Interviews, and Workshops
