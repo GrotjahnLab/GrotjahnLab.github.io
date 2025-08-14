@@ -14,6 +14,6 @@ Hamid got his BSc in Physics from University of Tehran in Iran. He went to FSU f
   
 His PhD was focused on the [myosin coiled coil structure](https://www.pnas.org/doi/abs/10.1073/pnas.2024151118) from the giant water bug (_Lethocerus indicus_) using single particle reconstruction and he is very pround of his _de novo_, 1600A long atomic model [7KOG](https://www.rcsb.org/structure/7KOG).
   
-He joined the Grotjahn lab as a postdoc to learn cryo-electron tomography and _in situ_ studies of mitochondrial membrane. He is interested in understanding the molecular interactions that mediate membrane constriction as well as the topology of mitochondrial membrane-embedded proteins.
+He joined the Grotjahn lab as a postdoc to learn cryo-electron tomography and _in situ_ studies of mitochondrial membrane with a focus on high-resolution subvolume averaging. As a staff scientist, he maintains the lab's computational infra-structure as well as contributing to multiple collaborations. His enjoys working on various cell types and targets, from _E. Coli_ and their ribosomes to neurons and their mitochondria. He also enjoys installing and testing new tomography packages as they come out. 
   
 Outside of research, Hamid enjoys running, reading, and [Iranian music](https://www.youtube.com/watch?v=VDvCxNChmjo&ab_channel=Sanatal%C4%B1k).
