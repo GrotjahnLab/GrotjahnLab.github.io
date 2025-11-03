@@ -85,7 +85,7 @@
   image: '/static/img/publications/2025/2025_Robpicker.png'
   biorxiv: 2025.09.16.676650
   pdf: '/static/pdf/2025/2025_Robpicker_biorxiv.pdf'
-  pmid: 
+  pmid: XXXX
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
@@ -274,7 +274,7 @@
   image: '/static/img/publications/2024/Liang_drugchat_preprint_2024.png'
   biorxiv: 2024.09.29.615524
   pdf: '/static/pdf/2024/Liang_drugchat_preprint_2024.pdf'
-  pmid:
+  pmid: XXXXX
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
@@ -284,7 +284,7 @@
   image: '/static/img/publications/2024/Zhang_ProteinAligner_preprint_2024.png'
   biorxiv: 2024.10.06.616870
   pdf: '/static/pdf/2024/Zhang_ProteinAligner_preprint_2024.pdf'
-  pmid:
+  pmid: XXXXX
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
@@ -294,7 +294,7 @@
   image: '/static/img/publications/2024/Huo_ProteinChat_2024.png'
   biorxiv: 2024.08.19.608729
   pdf: '/static/pdf/2024/Huo_ProteinChat_ResearchSquarePreprint_2024.pdf'
-  pmid: 
+  pmid: XXXXX
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
