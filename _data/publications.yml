@@ -64,3 +64,92 @@
     - name: "Wiseman Lab"
       url: 'http://www.wiseman.scripps.edu/'
 
+- section: "Surface Morphometrics and other cryo-ET software"
+
+- citation: '**Medina M†, Chang Y†, Rahmani H, Fuentes D, Barad BA§, Grotjahn DA§**. Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments. *bioRxiv* 2025.†Equal contribution §Corresponding author'
+  image: '/static/img/publications/2025/thickness.png'
+  biorxiv: 2025.04.30.651574
+  pdf: '/static/pdf/2025/thickness_biorxiv.pdf'
+  pmid: 
+  emdbs:
+  links:
+    - name: "Barad Lab"
+      url: 'https://baradlab.com/'
+- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curr Opin Struct Biol.* 2025.' 
+  image: '/static/img/publications/2025/2025_Grotjahn_CurrOpin_Seg.png' 
+  pdf: '/static/pdf/2025/2025_Grotjahn_CurrOpin_segmentation.pdf'
+  pmid: 40645092
+
+- citation: 'Hosseini R, Liang Y, Singh D, **Rahmani H**, Choe D, **Lee J**, Xu M, Segal E, Zou J, Williamson J, **Grotjahn DA**, Villa E, Xie P. RobPicker: A Meta Learning Framework for Robust Identification of Macromolecules in Cryo-Electron Tomograms. *bioRxiv* 2025. 
+  image: '/static/img/publications/2025/2025_Robpicker.png'
+  biorxiv: 2025.09.16.676650
+  pdf: '/static/pdf/2025/2025_Robpicker_biorxiv.pdf'
+  pmid: 
+  emdbs:
+  links:
+  links:
+    - name: "Pengtao Xie Lab"
+      url: 'https://pengtaoxie.github.io/'
+
+- citation: 'Boneš E, Khan D, Bohak C, **Barad BA, Grotjahn DA**, Viola I, Theußl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *IEEE* 2025'
+  image: '/static/img/publications/2025/midsurfer_arxiv2024.png'
+  pdf: '/static/pdf/2025/2025_MidSurfer.pdf'
+  arxiv: 2405.19339
+  pmid: 41129462
+  links:
+    - name: "MidSurfer on Github"
+      url: 'https://github.com/kaust-vislab/MidSurfer'
+    - name: "KAUST Visualization Core Lab"
+      url: 'https://corelabs.kaust.edu.sa/labs/visualization-core-lab'
+    - name: "KAUST NANOVIS: Nanovisualization Research Group"
+      url: 'https://cemse.kaust.edu.sa/nanovis'
+
+- citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. *Journal of Cell Biology* 2023 †Equal contribution §Corresponding author'
+  image: '/static/img/publications/2023/surfacemorphometrics-01.png'
+  biorxiv: 2022.01.23.477440
+  pdf: '/static/pdf/2023/Barad_Medina_Membrane_Morphometrics_Final.pdf'
+  pmid: 36786771
+  links:
+    - name: "Press Release"
+      url: 'https://www.scripps.edu/news-and-events/press-room/2023/20230215-grotjahn-mitochondria.html'
+    - name: "Journal Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1625573810249555968'
+    - name: "Preprint Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1485829710533693443'
+    - name: "Surface Morphometrics on Github"
+      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
+    - name: "EMPIAR Deposition (Tilt Series, Tomograms, Segmentations, and Surfaces)"
+      url: 'https://www.ebi.ac.uk/empiar/EMPIAR-11370/'
+    - name: "Zenodo Deposition (Quantifications and Statistics)"
+      url: 'https://zenodo.org/record/7510830'
+    - name: "Review Commons Reviews"
+      url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
+    - name: "Wiseman Lab @ Scripps Research"
+      url: 'http://www.wiseman.scripps.edu/'
+
+- citation: 'Gardner A, Ludovic A, **Fuentes D**, Maritan M, **Barad BA**, **Medina, M**, Olson AJ, **Grotjahn DA**, Goodsell DS. CellPAINT: Turnkey illustration of molecular cell biology. *Front. Bioinform* 2021'
+  date: 212903
+  image: '/static/img/publications/2021/CellPAINT_2021.jpeg'
+  pdf: '/static/pdf/2021/2021_CellPaint.pdf'
+  pmid: 34790910
+  pmcid: PMC8594902
+  zenodo: 
+    - code: '4606923'
+      description: 'Tomogram used for CellPAINT hypothesis generation'
+  links:
+    - name: "Molecular Graphics Laboratory"
+      url: 'https://ccsb.scripps.edu/goodsell/'
+
+- citation: 'Basanta B, Chowdhury S, Lander GC§, **Grotjahn DA§**. A guided approach for subtomogram averaging of challenging macromolecular assemblies. *JSBx* 2020 §Corresponding authors'
+  date: 201811
+  image: '/static/img/publications/2020/Grotjahn_2020_STAguided.jpg'
+  pmid: 33319208
+  pmcid: PMC7724198  
+  biorxiv: 2020.02.01.930297
+  pdf: '/static/pdf/2020/GuidedSTA_JSBx.pdf'
+  links:
+    - name: "guided_tomo_align scripts"
+      url: 'https://github.com/GrotjahnLab/guided_tomo_align/'
+    - name: "Lander Lab"
+      url: 'http://www.lander-lab.com/'
+
