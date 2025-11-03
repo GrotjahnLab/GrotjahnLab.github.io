@@ -1,18 +1,19 @@
 ---
-name: Nitish Dua
-image: /static/img/members/Nitish.jpg
+name: Jan-Hannes Schaefer
+image: /static/img/members/Jan.png
 position: Postdoc
 order: 2
-email: ndua (at) scripps.edu 
-scholar: PDw-bwgAAAAJ&hl 
-twitter: nitish_dua3
-orcid: 0000-0002-2584-8150
+funding: "[Walter-Benjamin](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) Postdoctoral Research Fellow"
+email: jschaefer (at) scripps.edu 
+scholar: WU_v79sAAAAJ&hl=en
+twitter: jhschaef.bsky.social
+orcid: 0000-0001-8163-1629
 pronouns: he/him/his
-startdate: 2024-02-22
+startdate: 2025-08-01
 ---
-Nitish received his undergraduate degree with a major in Biotechnology from GGSIPU, New Delhi. He earned his PhD in the lab of [Anjana Badrinarayanan](https://www.microgenomes.com/) at the National Centre for Biological Sciences-TIFR, Bengaluru. During his PhD, he worked on understanding how yeast cells respond to assaults on mitochondrial genomes. He developed a [tool to induce mitochondria-specific DNA damage](https://rupress.org/jcb/article/221/10/e202205104/213451/DarT-mediated-mtDNA-damage-induces-dynamic) and delineated the mechanisms involved in ensuring mitochondrial genome integrity.
+Jan-Hannes received his BSc and MSc in Biochemistry from Christian-Albrechts University Kiel, Germany. He earned his PhD in the lab of [Arne Moeller] (https://moeller-lab.com/), University of Osnabrueck. In his PhD work, he utilized cryo-EM to solve key-complexes of [yeast ceramide biosynthesis] (https://www.nature.com/articles/s41594-024-01415-2). For his PostDoc, he developed methods for automation in single-particle cryo-EM with [Gabriel C. Lander] (https://www.lander-lab.com/) at Scripps.
 
-Nitish is interested in understanding how mitochondrial membranes remodel, especially under mitochondrial DNA stress. In the Grotjahn Lab, he aims to learn and utilize Cryo-ET to answer these questions pertaining to mitochondrial membrane architecture regulation.
- 
-Outside of lab, Nitish can be found looking for insects or trying to run a mile. 
+In a joint effort with [Kelly Lab] (https://www.scripps.edu/kelly/), Jan-Hannes is interested in understanding the cross-talk of proteinopathy risk-proteins like TTR within their cellular environment using cryo-EM.
+
+Outside of lab, you can find Jan on the Golf course, hiking or playing piano.
 
