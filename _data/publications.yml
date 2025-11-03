@@ -1,3 +1,5 @@
+# Mitochondrial Dynamics ###
+
 - citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curr Opin Struct Biol.* 2025.' 
   image: '/static/img/publications/2025/2025_Grotjahn_CurrOpin_Seg.png' 
   pdf: '/static/pdf/2025_Grotjahn_CurrOpin_segmentation.pdf'
