@@ -4,7 +4,7 @@
   image: '/static/img/publications/2025/2025BorabioRXIV.png'
   biorxiv: 2025.04.30.651574
   pdf: '/static/pdf/2025/2025_Bora_ISRactivators_biorxiv.pdf'
-  pmid:
+  pmid: 40666974
   emdbs:
   links:
     - name: "Wiseman Lab"
@@ -70,7 +70,7 @@
   image: '/static/img/publications/2025/thickness.png'
   biorxiv: 2025.04.30.651574
   pdf: '/static/pdf/2025/thickness_biorxiv.pdf'
-  pmid: 
+  pmid: 40654968
   emdbs:
   links:
     - name: "Barad Lab"
