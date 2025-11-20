@@ -1,5 +1,15 @@
 - section: "Mitochondrial Dynamics"
 
+- citation: '**Medina M, Rahmani H, Chang Y, Barad BA, Grotjahn DA§**. Prohibitin complexes associate with unique membrane microdomains in cells. *bioRxiv* 2025. 
+  image: '/static/img/publications/2025/2025_PHB_medina.png'
+  biorxiv: 2025.11.14.688579
+  pdf: '/static/pdf/2025/2025_PHB_medina.pdf'
+  pmid: XXXX
+  emdbs:
+  links:
+    - name: "Surface Morphometrics on Github"
+      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
+
 - citation: 'Bora P†, Zaman M†, **Oviedo S**, Kutseikin S, Madrazo N, Mathur P, Pannikkat M, Krasny S, Chu A, Johnson KA, **Grotjahn DA**, Shutt TE§, Wiseman RL§. Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *bioRxiv* 2025.†Co-first authors, §Co-corresponding authors.'
   image: '/static/img/publications/2025/2025BorabioRXIV.png'
   biorxiv: 2025.04.30.651574
@@ -12,7 +22,7 @@
     - name: "Shutt Lab"
       url: 'https://profiles.ucalgary.ca/timothy-shutt'
 
-- citation: '**Chang Y, Barad BA,** Hamid J, **Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the local membrane environment for protein import. *Journal of Cell Biology* 2025.§Corresponding author'
+- citation: '**Chang Y, Barad BA, Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the local membrane environment for protein import. *Journal of Cell Biology* 2025.§Corresponding author'
   image: '/static/img/publications/2025/Chang_2024_co-trans_biorxiv.png'
   biorxiv: 2024.07.17.604013
   pdf: '/static/pdf/2025/Chang_Cyt-mitoRibos_JCB_2025.pdf'
@@ -73,6 +83,8 @@
   pmid: 40654968
   emdbs:
   links:
+    - name: "Surface Morphometrics on Github"
+      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
     - name: "Barad Lab"
       url: 'https://baradlab.com/'
 
