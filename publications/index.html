@@ -23,8 +23,7 @@ group: publications
 
     <div>
       {%- for s in sections -%}
-        <a href="#{{ s | markdownify | strip_html | strip | slugify }}"
-           style="display:inline; margin-right: 1.25rem;">
+        <a href="#{{ s | markdownify | strip_html | strip | slugify }}">
            {{ s | markdownify }}
         </a>
       {%- endfor -%}
@@ -148,5 +147,12 @@ group: publications
 
 <style>
   html { scroll-behavior: smooth; }
+
+  /* Force compact inline TOC links, overriding theme styles */
+  .toc a {
+    display: inline-block !important;
+    margin-right: 1.25rem !important;
+    margin-bottom: 0.25rem !important;
+  }
 </style>
 
