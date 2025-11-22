@@ -8,10 +8,26 @@ group: publications
 <!-- <h1>Publications</h1> -->
 <div class="container-fluid">
   {% assign publications = site.data.publications %}
+
+  {%- comment -%} Build a list of unique section names for navigation {%- endcomment -%}
+  {% assign sections = publications | map: "section" | compact | uniq %}
+
+  {%- if sections.size > 0 -%}
+  <nav class="toc" style="margin: 1rem 0 2rem; padding: .75rem 1rem; background:#f7f7f7; border-radius:.5rem;">
+    <strong style="display:block; margin-bottom:.5rem;">Jump to:</strong>
+    {%- for s in sections -%}
+      <a href="#{{ s | markdownify | strip_html | strip | slugify }}" style="margin-right: 1rem;">
+        {{ s | markdownify }}
+      </a>
+    {%- endfor -%}
+  </nav>
+  {%- endif -%}
+
   {% for publication in publications %}
 
     {% if publication.section %}
-      <h2 style="font-weight:bold; font-size:1.8em; margin-top:2em; border-bottom:2px solid #ddd; padding-bottom:0.3em;">
+      <h2 id="{{ publication.section | markdownify | strip_html | strip | slugify }}"
+          style="font-weight:bold; font-size:1.8em; margin-top:2em; border-bottom:2px solid #ddd; padding-bottom:0.3em;">
         {{ publication.section | markdownify }}
       </h2>
     {% endif %}
@@ -117,8 +133,12 @@ group: publications
     {% if forloop.last == false %}
     <hr>
     {% endif %}
-    {% endif %} 
+    {% endif %}
 
   {% endfor %}
 </div>
+
+<style>
+  html { scroll-behavior: smooth; }
+</style>
 
