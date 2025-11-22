@@ -9,17 +9,26 @@ group: publications
 <div class="container-fluid">
   {% assign publications = site.data.publications %}
 
-  {%- comment -%} Build a list of unique section names for navigation {%- endcomment -%}
+  {%- comment -%} Build list of unique section names for TOC {%- endcomment -%}
   {% assign sections = publications | map: "section" | compact | uniq %}
 
   {%- if sections.size > 0 -%}
-  <nav class="toc" style="margin: 1rem 0 2rem; padding: .75rem 1rem; background:#f7f7f7; border-radius:.5rem;">
+  <nav class="toc" style="
+    margin: 1rem 0 2rem;
+    padding: .75rem 1rem;
+    background:#f7f7f7;
+    border-radius:.5rem;
+  ">
     <strong style="display:block; margin-bottom:.5rem;">Jump to:</strong>
-    {%- for s in sections -%}
-      <a href="#{{ s | markdownify | strip_html | strip | slugify }}" style="margin-right: 1rem;">
-        {{ s | markdownify }}
-      </a>
-    {%- endfor -%}
+
+    <div>
+      {%- for s in sections -%}
+        <a href="#{{ s | markdownify | strip_html | strip | slugify }}"
+           style="display:inline; margin-right: 1.25rem;">
+           {{ s | markdownify }}
+        </a>
+      {%- endfor -%}
+    </div>
   </nav>
   {%- endif -%}
 
@@ -127,7 +136,6 @@ group: publications
         {% endif %}
       </ul>
       {% endif %}
-
     </div> <!-- /.row -->
 
     {% if forloop.last == false %}
