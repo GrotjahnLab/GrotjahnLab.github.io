@@ -8,11 +8,6 @@ banner: static/img/banners/morphometrics_1.png
 
 The Grotjahn Lab connects molecular structure with cellular context to study how mitochondria remodel their shape, composition, and function in response to changing cellular demands and stressors. Our goal is to uncover fundamental mechanisms of mitochondrial adaptation that could inform new therapeutic strategies for disease.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Surface Colormap Comparison</title>
 
 <style>
   body {
@@ -210,4 +205,3 @@ The Grotjahn Lab connects molecular structure with cellular context to study how
 </script>
 
 </body>
-</html>
