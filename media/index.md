@@ -5,7 +5,7 @@ group: media
 banner: /static/img/banners/media.png
 ---
 
-
+# Interactive Gadget
 ### 2025 [Interactive Mitochondrial Morphology Visualization](https://github.com/GrotjahnLab/surface_morphometrics)
 Slide the vertical lines to reveal different membrane properties.
 <style>
