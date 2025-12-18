@@ -24,7 +24,7 @@ Are the mitochondria truly the powerhouses of the cell? In this episode, assista
 We often imagine a cell as a large balloon filled with jelly, but really it is more like a large city. Packages need to go from one place to the other in an organized fashion as to not disrupt other processes. For example, when we need an item, we go to the store or click away on retail websites, but how do these items find their way to the retail place or our house? There are vehicles on roads and highways that are utilized for distribution. Much like the infrastructure that we use everyday to move cargo around our cities, the cell has its own system to deliver goods from one place to another. What are the 18 wheelers of the cell, how do they move such important packages, and how do they know where to go? Cytoplasmic dynein is a protein complex that transports molecular cargo along and plays a key role in the intracellular trafficking network. Dr. Danielle Grotjahn utilizes specialized imaging techniques to study these structures and the function of motor proteins.
 <iframe width="668" height="376" src="https://www.youtube.com/embed/rIz21VboAP8" title="[Audio] Radiobio interviews Dr. Danielle Grotjahn about visualizing motor proteins in cells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+<body>
 <style>
   body {
     font-family: system-ui, sans-serif;
