@@ -24,26 +24,24 @@ Are the mitochondria truly the powerhouses of the cell? In this episode, assista
 We often imagine a cell as a large balloon filled with jelly, but really it is more like a large city. Packages need to go from one place to the other in an organized fashion as to not disrupt other processes. For example, when we need an item, we go to the store or click away on retail websites, but how do these items find their way to the retail place or our house? There are vehicles on roads and highways that are utilized for distribution. Much like the infrastructure that we use everyday to move cargo around our cities, the cell has its own system to deliver goods from one place to another. What are the 18 wheelers of the cell, how do they move such important packages, and how do they know where to go? Cytoplasmic dynein is a protein complex that transports molecular cargo along and plays a key role in the intracellular trafficking network. Dr. Danielle Grotjahn utilizes specialized imaging techniques to study these structures and the function of motor proteins.
 <iframe width="668" height="376" src="https://www.youtube.com/embed/rIz21VboAP8" title="[Audio] Radiobio interviews Dr. Danielle Grotjahn about visualizing motor proteins in cells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Interactive Mitochondrial Morphology Visualization
+
 <style>
-  body {
-    font-family: system-ui, sans-serif;
+  .image-slider-wrapper {
+    max-width: 800px;
+    margin: 40px auto;
   }
 
-  .wrapper {
-    width: 720px;
-    margin: 30px auto;
-  }
-
-  .figure {
+  .image-slider-figure {
     position: relative;
     width: 100%;
-    aspect-ratio: 1 / 1;
+    padding-bottom: 100%; /* 1:1 aspect ratio */
     border: 1px solid #ccc;
     overflow: hidden;
     background: #fff;
   }
 
-  .figure > img {
+  .image-slider-figure > img {
     position: absolute;
     top: 0;
     left: 0;
@@ -55,7 +53,7 @@ We often imagine a cell as a large balloon filled with jelly, but really it is m
     z-index: 1;
   }
 
-  .mask {
+  .image-mask {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -63,154 +61,152 @@ We often imagine a cell as a large balloon filled with jelly, but really it is m
     z-index: 2;
   }
 
-  .mask img {
+  .image-mask img {
     position: absolute;
     top: 0;
-    width: 720px;
-    height: 720px;
+    height: 100%;
     object-fit: contain;
     user-select: none;
     pointer-events: none;
   }
   
-  #mask2 img {
-    left: calc(-1 * var(--mask2-left, 0px));
+  #imageMask2 {
+    left: 0;
   }
   
-  #mask1 img {
-    left: calc(-1 * var(--mask1-left, 0px));
+  #imageMask2 img {
+    left: 0;
+  }
+  
+  #imageMask1 {
+    right: 0;
+  }
+  
+  #imageMask1 img {
+    right: 0;
   }
 
-  .handle {
+  .slider-handle {
     position: absolute;
     top: 0;
     bottom: 0;
     width: 4px;
-    background: #111;
+    background: #333;
     cursor: ew-resize;
-    z-index: 20;
+    z-index: 30;
   }
 
-  .handle::after {
+  .slider-handle::after {
     content: '';
     position: absolute;
     top: 50%;
     left: -6px;
     width: 16px;
     height: 16px;
-    background: #111;
+    background: #333;
     border-radius: 50%;
     transform: translateY(-50%);
   }
-
-  .snap-line {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 1px;
-    background: rgba(0,0,0,0.15);
-    pointer-events: none;
-  }
-
-  .region-label {
-    position: absolute;
-    bottom: 8px;
-    padding: 3px 6px;
-    background: rgba(255,255,255,0.9);
-    font-size: 0.8rem;
-    border-radius: 4px;
-    z-index: 25;
-  }
-
-  .label-left   { left: 8px; }
-  .label-middle { left: 50%; transform: translateX(-50%); }
-  .label-right  { right: 8px; }
 </style>
 
-<div class="wrapper">
+<div class="image-slider-wrapper">
+  <div class="image-slider-figure" id="sliderFigure">
+    <!-- Base image (leftmost) -->
+    <img src="/static/img/morph/thickness_MIM019_2_lam6_ts_003.svg" alt="Thickness">
 
-  <div class="figure" id="figure">
-
-    <!-- Image 3 (left of left slider) -->
-    <img src="/static/img/morph/thickness_MIM019_2_lam6_ts_003.svg" alt="Image 3">
-
-    <!-- Image 2 (between sliders) -->
-    <div class="mask" id="mask2">
-      <img src="/static/img/morph/OMM_distace_MIM019_2_lam6_ts_003.svg" alt="Image 2">
+    <!-- Middle image (between sliders) -->
+    <div class="image-mask" id="imageMask2">
+      <img src="/static/img/morph/OMM_distace_MIM019_2_lam6_ts_003.svg" alt="OMM Distance" id="middleImg">
     </div>
 
-    <!-- Image 1 (right of right slider) -->
-    <div class="mask" id="mask1">
-      <img src="/static/img/morph/curvedness_MIM019_2_lam6_ts_003.svg" alt="Image 1">
+    <!-- Right image (rightmost) -->
+    <div class="image-mask" id="imageMask1">
+      <img src="/static/img/morph/curvedness_MIM019_2_lam6_ts_003.svg" alt="Curvedness" id="rightImg">
     </div>
 
-    <!-- Handles -->
-    <div class="handle" id="leftHandle"></div>
-    <div class="handle" id="rightHandle"></div>
-
+    <!-- Slider handles -->
+    <div class="slider-handle" id="leftSlider"></div>
+    <div class="slider-handle" id="rightSlider"></div>
   </div>
-
 </div>
 
 <script>
-  const figure = document.getElementById('figure');
-  const leftHandle = document.getElementById('leftHandle');
-  const rightHandle = document.getElementById('rightHandle');
-  const mask2 = document.getElementById('mask2');
-  const mask1 = document.getElementById('mask1');
+(function() {
+  const figure = document.getElementById('sliderFigure');
+  const leftSlider = document.getElementById('leftSlider');
+  const rightSlider = document.getElementById('rightSlider');
+  const mask2 = document.getElementById('imageMask2');
+  const mask1 = document.getElementById('imageMask1');
+  const middleImg = document.getElementById('middleImg');
+  const rightImg = document.getElementById('rightImg');
 
-  let leftX = 1/3;
-  let rightX = 2/3;
+  let leftPos = 0.33;
+  let rightPos = 0.67;
 
-  function update() {
+  function updateSliders() {
     const w = figure.clientWidth;
+    const leftPx = leftPos * w;
+    const rightPx = rightPos * w;
 
-    const leftPx = leftX * w;
-    const rightPx = rightX * w;
+    leftSlider.style.left = leftPx + 'px';
+    rightSlider.style.left = rightPx + 'px';
 
-    leftHandle.style.left = leftPx + 'px';
-    rightHandle.style.left = rightPx + 'px';
-
-    // Image 2 shows between the two sliders
+    // Middle mask shows between left and right sliders
     mask2.style.left = leftPx + 'px';
     mask2.style.width = (rightPx - leftPx) + 'px';
-    mask2.style.setProperty('--mask2-left', leftPx + 'px');
+    middleImg.style.left = (-leftPx) + 'px';
+    middleImg.style.width = w + 'px';
 
-    // Image 1 shows to the right of the right slider
+    // Right mask shows from right slider to end
     mask1.style.left = rightPx + 'px';
     mask1.style.width = (w - rightPx) + 'px';
-    mask1.style.setProperty('--mask1-left', rightPx + 'px');
+    rightImg.style.left = (-rightPx) + 'px';
+    rightImg.style.width = w + 'px';
   }
 
-  function drag(handle, isLeft) {
-    function move(e) {
+  function makeDraggable(handle, isLeft) {
+    let isDragging = false;
+
+    function onMove(e) {
+      if (!isDragging) return;
+      
       const rect = figure.getBoundingClientRect();
       let x = (e.clientX - rect.left) / rect.width;
       x = Math.max(0, Math.min(1, x));
 
       if (isLeft) {
-        leftX = Math.min(x, rightX - 0.05);
+        leftPos = Math.min(x, rightPos - 0.05);
       } else {
-        rightX = Math.max(x, leftX + 0.05);
+        rightPos = Math.max(x, leftPos + 0.05);
       }
-      update();
+      updateSliders();
     }
 
-    function stop() {
-      document.removeEventListener('mousemove', move);
-      document.removeEventListener('mouseup', stop);
+    function onEnd() {
+      isDragging = false;
+      document.removeEventListener('mousemove', onMove);
+      document.removeEventListener('mouseup', onEnd);
+      document.removeEventListener('touchmove', onMove);
+      document.removeEventListener('touchend', onEnd);
     }
 
-    handle.addEventListener('mousedown', () => {
-      document.addEventListener('mousemove', move);
-      document.addEventListener('mouseup', stop);
-    });
+    function onStart(e) {
+      isDragging = true;
+      e.preventDefault();
+      document.addEventListener('mousemove', onMove);
+      document.addEventListener('mouseup', onEnd);
+      document.addEventListener('touchmove', onMove);
+      document.addEventListener('touchend', onEnd);
+    }
+
+    handle.addEventListener('mousedown', onStart);
+    handle.addEventListener('touchstart', onStart);
   }
 
-  drag(leftHandle, true);
-  drag(rightHandle, false);
+  makeDraggable(leftSlider, true);
+  makeDraggable(rightSlider, false);
 
-  update();
-
-  window.addEventListener('resize', update);
+  updateSliders();
+  window.addEventListener('resize', updateSliders);
+})();
 </script>
