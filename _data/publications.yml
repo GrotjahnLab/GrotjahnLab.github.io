@@ -85,7 +85,8 @@
   biorxiv: 2025.04.30.651574
   pdf: '/static/pdf/2025/2025_thickness_JCB.pdf'
   pmid: 40654968
-  emdbs: 72321
+  emdbs:
+    - 72321
   links:
     - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
@@ -96,7 +97,7 @@
     - name: "Barad Lab"
       url: 'https://baradlab.com/'
 
-- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curren Opinion in Structural Biology* 2025.' 
+- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Current Opinion in Structural Biology* 2025.' 
   image: '/static/img/publications/2025/2025_Grotjahn_CurrOpin_Seg.png' 
   pdf: '/static/pdf/2025/2025_Grotjahn_CurrOpin_segmentation.pdf'
   pmid: 40645092
@@ -186,7 +187,7 @@
     - name: "Lander Lab"
       url: 'https://www.lander-lab.com/'
 
-- citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *Journal of Biological Chemistry* 2019.'
+- citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *Journal of Biological Chemistry (JBC)* 2019.'
   date: 201909
   image: '/static/img/publications/2019/Grotjahn_review_2019.png'
   pmid: 31285262
