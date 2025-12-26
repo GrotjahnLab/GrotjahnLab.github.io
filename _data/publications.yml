@@ -1,4 +1,5 @@
 - section: "Mitochondrial Dynamics"
+
 - citation: '**Medina M, Rahmani H, Chang Y, Barad BA, Grotjahn DA§**. Prohibitin complexes associate with unique membrane microdomains in cells. *bioRxiv* 2025.' 
   image: '/static/img/publications/2025/2025_PHB_medina.png'
   biorxiv: 2025.11.14.688579
@@ -9,11 +10,11 @@
     - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
 
-- citation: 'Bora P†, Zaman M†, **Oviedo S**, Kutseikin S, Madrazo N, Mathur P, Pannikkat M, Krasny S, Chu A, Johnson KA, **Grotjahn DA**, Shutt TE§, Wiseman RL§. Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *bioRxiv* 2025.†Co-first authors, §Co-corresponding authors.'
+- citation: 'Bora P†, Zaman M†, **Oviedo S**, Kutseikin S, Madrazo N, Mathur P, Pannikkat M, Krasny S, Aldakhlallah R, Chu A, Johnson KA, **Grotjahn DA**, Shutt TE§, Wiseman RL§. Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *PNAS* 2025.†Co-first authors, §Co-corresponding authors.'
   image: '/static/img/publications/2025/2025BorabioRXIV.png'
   biorxiv: 2025.04.30.651574
-  pdf: '/static/pdf/2025/2025_Bora_ISRactivators_biorxiv.pdf'
-  pmid: 40666974
+  pdf: '/static/pdf/2025/2025_Bora_ISRactivators_PNAS.pdf'
+  pmid: 41289394
   emdbs:
   links:
     - name: "Wiseman Lab"
@@ -21,7 +22,7 @@
     - name: "Shutt Lab"
       url: 'https://profiles.ucalgary.ca/timothy-shutt'
 
-- citation: '**Chang Y, Barad BA, Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the local membrane environment for protein import. *Journal of Cell Biology* 2025.§Corresponding author'
+- citation: '**Chang Y, Barad BA, Rahmani H**, Zid BM, **Grotjahn DA§**.  Cytoplasmic ribosomes on mitochondria alter the local membrane environment for protein import. *Journal of Cell Biology (JCB)* 2025.§Corresponding author'
   image: '/static/img/publications/2025/Chang_2024_co-trans_biorxiv.png'
   biorxiv: 2024.07.17.604013
   pdf: '/static/pdf/2025/Chang_Cyt-mitoRibos_JCB_2025.pdf'
@@ -30,6 +31,10 @@
     - 48751
     - 48752 
   links:
+    - name: "Selected article for The Year in Cell Biology: 2025"
+      url: 'https://rupress.org/jcb/collection/63383/The-Year-in-Cell-Biology-2025'
+    - name: "Press Release"
+      url: 'https://magazine.scripps.edu/awards-and-honors/2025/online-exclusive/scripps-research-scientist-danielle-grotjahn-recognized-in-journal-of-cell-biologys-2025-highlights-collection/'
     - name: "Zid Lab"
       url: 'https://zidlab.ucsd.edu/'
 
@@ -53,7 +58,7 @@
     - name: "Manor Lab"
       url: 'https://manorlab.ucsd.edu/'
 
-- citation: 'Mageswaran SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial constriction revealed by cryo-electron tomography. *Biophys J* 2023 †Equal contribution §Corresponding authors'
+- citation: 'Mageswaran SK†, **Grotjahn DA†§**, Zeng X, **Barad BA, Medina M**, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§ . Nanoscale details of mitochondrial constriction revealed by cryo-electron tomography. *Biophysical Journal* 2023 †Equal contribution §Corresponding authors'
   image: '/static/img/publications/2023/Apr20_TS02_ModelMT.png'
   biorxiv: 2021.12.13.472487
   pdf: '/static/pdf/2023/Mageswaran_Grotjahn_MitochondrialConstriction_BioPhysJ.pdf'
@@ -64,7 +69,7 @@
     - name: "Jensen Lab"
       url: 'http://www.jensenlab.caltech.edu/'
 
-- citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *EMBO J* 2023'
+- citation: 'Perea V, Cole C, Lebeau J, Dolina V, Baron KR, Madhavan A, Kelly JW, **Grotjahn DG,** Wiseman RL. PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. *The EMBO Journal* 2023'
   image: '/static/img/publications/2023/PareaV_PAPerk_2022biorxiv.png'
   biorxiv: 2022.02.23.481593
   pdf: '/static/pdf/2023/Parea_PAPerk_2023EMBOj.pdf'
@@ -75,19 +80,23 @@
 
 - section: "Surface Morphometrics and other cryo-ET software"
 
-- citation: '**Medina M†, Chang Y†, Rahmani H, Fuentes D, Barad BA§, Grotjahn DA§**. Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments. *bioRxiv* 2025.†Equal contribution §Corresponding author'
+- citation: '**Medina M†, Chang Y†, Rahmani H**, Frank M, Khan Z, **Fuentes D**, Heberle FA, Waxham MN, **Barad BA§, Grotjahn DA§**. Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments. *Journal of Cell Biology (JCB)* 2025.†Equal contribution §Corresponding author'
   image: '/static/img/publications/2025/thickness.png'
   biorxiv: 2025.04.30.651574
-  pdf: '/static/pdf/2025/thickness_biorxiv.pdf'
+  pdf: '/static/pdf/2025/2025_thickness_JCB.pdf'
   pmid: 40654968
-  emdbs:
+  emdbs: 72321
   links:
     - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
+    - name: "Patch analysis on Github"
+      url: 'https://github.com/GrotjahnLab/patch_analysis/'
+    - name: "EMPIAR Deposition (Tilt Series, Tomograms, Segmentations, and Surfaces)"
+      url: 'https://www.ebi.ac.uk/empiar/EMPIAR-13056/'
     - name: "Barad Lab"
       url: 'https://baradlab.com/'
 
-- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curr Opin Struct Biol.* 2025.' 
+- citation: '**Grotjahn DA**. Segmenting cryo-electron tomography data: Extracting models from cellular landscapes. *Curren Opinion in Structural Biology* 2025.' 
   image: '/static/img/publications/2025/2025_Grotjahn_CurrOpin_Seg.png' 
   pdf: '/static/pdf/2025/2025_Grotjahn_CurrOpin_segmentation.pdf'
   pmid: 40645092
@@ -115,7 +124,7 @@
     - name: "KAUST NANOVIS: Nanovisualization Research Group"
       url: 'https://cemse.kaust.edu.sa/nanovis'
 
-- citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. *Journal of Cell Biology* 2023 †Equal contribution §Corresponding author'
+- citation: '**Barad BA†, Medina M†, Fuentes D,** Wiseman, RL, **Grotjahn DA§**. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. *Journal of Cell Biology (JCB)* 2023 †Equal contribution §Corresponding author'
   image: '/static/img/publications/2023/surfacemorphometrics-01.png'
   biorxiv: 2022.01.23.477440
   pdf: '/static/pdf/2023/Barad_Medina_Membrane_Morphometrics_Final.pdf'
@@ -138,7 +147,7 @@
     - name: "Wiseman Lab @ Scripps Research"
       url: 'http://www.wiseman.scripps.edu/'
 
-- citation: 'Gardner A, Ludovic A, **Fuentes D**, Maritan M, **Barad BA**, **Medina, M**, Olson AJ, **Grotjahn DA**, Goodsell DS. CellPAINT: Turnkey illustration of molecular cell biology. *Front. Bioinform* 2021'
+- citation: 'Gardner A, Ludovic A, **Fuentes D**, Maritan M, **Barad BA**, **Medina, M**, Olson AJ, **Grotjahn DA**, Goodsell DS. CellPAINT: Turnkey illustration of molecular cell biology. *Frontiers in Bioinformatics* 2021'
   date: 212903
   image: '/static/img/publications/2021/CellPAINT_2021.jpeg'
   pdf: '/static/pdf/2021/2021_CellPaint.pdf'
@@ -151,7 +160,7 @@
     - name: "Molecular Graphics Laboratory"
       url: 'https://ccsb.scripps.edu/goodsell/'
 
-- citation: 'Basanta B, Chowdhury S, Lander GC§, **Grotjahn DA§**. A guided approach for subtomogram averaging of challenging macromolecular assemblies. *JSBx* 2020 §Corresponding authors'
+- citation: 'Basanta B, Chowdhury S, Lander GC§, **Grotjahn DA§**. A guided approach for subtomogram averaging of challenging macromolecular assemblies. *Journal of Structural Biology: X* 2020 §Corresponding authors'
   date: 201811
   image: '/static/img/publications/2020/Grotjahn_2020_STAguided.jpg'
   pmid: 33319208
@@ -177,7 +186,7 @@
     - name: "Lander Lab"
       url: 'https://www.lander-lab.com/'
 
-- citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *JBC* 2019.'
+- citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *Journal of Biological Chemistry* 2019.'
   date: 201909
   image: '/static/img/publications/2019/Grotjahn_review_2019.png'
   pmid: 31285262
@@ -187,7 +196,7 @@
     - name: "Lander Lab"
       url: 'http://www.lander-lab.com/'
 
-- citation: '**Grotjahn DA**, Chowdhury S, Xu Y, McKenney RJ, Schroer TA, Lander GC. Cryo-electron tomography reveals that dynactin recruits a team of dyneins for processive motility. *NSMB* 2018.'
+- citation: '**Grotjahn DA**, Chowdhury S, Xu Y, McKenney RJ, Schroer TA, Lander GC. Cryo-electron tomography reveals that dynactin recruits a team of dyneins for processive motility. *Nature Structural and Molecular Biology* 2018.'
   date: 201803
   image: '/static/img/publications/2018/Grotjahn_2018_trimmed.gif'
   pmid: 29416113
@@ -259,7 +268,7 @@
 
 - section: "CryoEM Methods"
 
-- citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallogr D Struct Biol* 2022'
+- citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallography D Structural Biology* 2022'
   date: 220101
   image: '/static/img/publications/2021/Glycerol_2021.png'
   pmid: 34981768 
@@ -270,7 +279,7 @@
     - name: "Lander Lab"
       url: 'http://www.lander-lab.com/'
 
-- citation: 'Aiyer A,  Baldwin PR, Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie ME, Passos DO, Đorđević-Marquardt S, Mietzsch M, Hull JA, Hoshika S, **Barad BA, Grotjahn DA**, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D.Overcoming resolution attenuation during tilted cryo-EM data collection. *Nat Commun* 2024'
+- citation: 'Aiyer A,  Baldwin PR, Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie ME, Passos DO, Đorđević-Marquardt S, Mietzsch M, Hull JA, Hoshika S, **Barad BA, Grotjahn DA**, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D.Overcoming resolution attenuation during tilted cryo-EM data collection. *Nature Communications* 2024'
   image: '/static/img/publications/2023/Sriram_2023_biorxiv.png'
   biorxiv: 2023.07.14.548955
   pdf: '/static/pdf/2024/Sriram_NatComm2024.pdf'
@@ -281,6 +290,16 @@
 
 - section: "Collaborative Software Development"
 
+- citation: 'Bai D, Mo S, Zhang R, Luo Y, Gao J, Yang JP, Wu Q, Singh D, **Rahmani H**, Amariuta T, **Grotjahn DA**, Zhong S, Lewis N, Wang W, Ideker T, Xie P, Zing E. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. *bioRxiv* 2024.'
+  image: '/static/img/publications/2024/Bai_scLong_2024.png'
+  biorxiv: 2024.11.09.622759
+  pdf: '/static/pdf/2024/Bai_scLong_biorxiv_2024.pdf'
+  pmid: XXXXX
+  emdbs:
+  links:
+    - name: "Pengtao Xie Lab"
+      url: 'https://pengtaoxie.github.io/'
+
 - citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, **Grotjahn DA**, Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
   image: '/static/img/publications/2024/Liang_drugchat_preprint_2024.png'
   biorxiv: 2024.09.29.615524
@@ -289,7 +308,7 @@
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
-      url: 'https://pengtaoxie.github.io//'
+      url: 'https://pengtaoxie.github.io/'
 
 - citation: 'Zhang L, Guo H, Schaffer L, Ko YS, Singh D, **Rahmani H, Grotjahn DA**, Villa E, Gilson M, Wang W, Ideker T, Xing E, Xie P. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models. *bioRxiv* 2024.'
   image: '/static/img/publications/2024/Zhang_ProteinAligner_preprint_2024.png'
@@ -299,7 +318,7 @@
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
-      url: 'https://pengtaoxie.github.io//'
+      url: 'https://pengtaoxie.github.io/'
 
 - citation: 'Huo M, Guo H, Cheng X, Singh D, **Rahmani H**, Li Shen, **Gerlof P**, Ideker T, **Grotjahn DA**, Villa E, Song L, Xie P. Multi-Modal Large Language Model Enables Protein Function Prediction. *bioRxiv* 2024.'
   image: '/static/img/publications/2024/Huo_ProteinChat_2024.png'
@@ -309,13 +328,4 @@
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
-      url: 'https://pengtaoxie.github.io//'
-
-
-
-
-
-
-
-
-
+      url: 'https://pengtaoxie.github.io/'
