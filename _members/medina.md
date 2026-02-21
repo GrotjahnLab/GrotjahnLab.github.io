@@ -2,7 +2,7 @@
 name: Michaela Medina
 image: /static/img/members/Michaela.png
 position: Postdoc <br>Assistant to the Regional Manager
-order: 3
+order: 2
 email: mmedina (at) scripps.edu
 twitter: MichaelaMedin19
 orcid: 0000-0001-6346-5137
