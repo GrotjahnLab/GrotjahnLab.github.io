@@ -222,6 +222,14 @@
 
 - section: "Cryo-ET across biological systems"
 
+- citation: 'Li D, Zhang W, **Medina M**, Stuke JFM, Schwarz A, Brill J, Brenner J, Kraus F, Ohlerich S, Lizarrondo J, Pflaum J, Grass JH, Soltow L, Hammerschmid D, Weber N, Welsch S, Langer JD, Windbergs M, Harber JW, Schuman E, Hummer G, **Grotjahn DA**, Wifling F. Cathepsin-dependent amyloid formation drives mechanical rupture of lysosomal membranes. *bioRxiv* 2026.'
+  image: '/static/img/publications/2026/2026_Wifling_biorxiv.png'
+  pdf: '/static/pdf/2026/LLOMEWifling_biorxiv.pdf'
+  pmid: 41648416
+  links:
+    - name: "Wilfling Lab"
+      url: 'https://www.biophys.mpg.de/mechanisms-cellular-quality-control'
+
 - citation: 'Rodriguez ZK, JAndino-Moncada JR, Buth SA, Mehrani A, Ranaweera A, Shi J, Andrade LR, Singh SP, Strutzenberg TS, Marin M, Guerrero-Ferreira R, **Rahmani H, Grotjahn DA**, Stagg S, Melikyan GB, Lyumkis D, Francis AC. Time-Resolved Fluorescence Imaging and Correlative Cryo-Electron Tomography to Study Structural Changes of the HIV-1 Capsid. *ACS Nano* 2025.'
   image: '/static/img/publications/2025/2025_HIVCLEM.png'
   pdf: '/static/pdf/2025/2025_HIVCLEM.pdf'
@@ -243,11 +251,11 @@
     - name: "Park Lab"
       url: 'https://www.the-park-lab.org/'
 
-- citation: 'Dahmane S, Schexnaydre E, Zhang J, Rosendal E, Chotiwan N, Singh BK, Yau W, Lundmark R, **Barad BA, Grotjahn DA**, Liese S, Carlson A, Overby A, Carlson L. Cryo-electron tomography reveals coupled flavivirus replication, budding and maturation. *bioRxiv* 2024.'
+- citation: 'Dahmane S, Schexnaydre E, Zhang J, Singh BK, Rosendal E, Chotiwan N, Sharma KB, Milsson E, Peters MBA, Yau W, Rönfeldt, Lundmark R, **Barad BA, Grotjahn DA**, Liese S, Carlson A, Overby AK, Carlson L. Cryo-electron tomography reveals coupled flavivirus replication, budding and maturation. *Nature Communications* 2026.'
   image: '/static/img/publications/2024/Dahmane_Flavivirus_preprint_2024.png'
   biorxiv: 2024.10.13.618056
-  pdf: '/static/pdf/2024/Dahmane_Flavivirus_preprint_2024.pdf'
-  pmid: 39416041
+  pdf: '/static/pdf/2026/2026_Flavivirus.pdf'
+  pmid: 41559045
   emdbs:
   links:
     - name: "Carlson Lab"
@@ -291,11 +299,11 @@
 
 - section: "Collaborative Software Development"
 
-- citation: 'Bai D, Mo S, Zhang R, Luo Y, Gao J, Yang JP, Wu Q, Singh D, **Rahmani H**, Amariuta T, **Grotjahn DA**, Zhong S, Lewis N, Wang W, Ideker T, Xie P, Zing E. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. *bioRxiv* 2024.'
+- citation: 'Bai D, Mo S, Zhang R, Luo Y, Gao J, Yang JP, Wu Q, **Rahmani H**, Amariuta T, **Grotjahn D**, Zhong S, Lewis N, Wang W, Ideker T, Xie P, Xing E. scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics. *Nature Communications* 2026.'
   image: '/static/img/publications/2024/Bai_scLong_2024.png'
   biorxiv: 2024.11.09.622759
-  pdf: '/static/pdf/2024/Bai_scLong_biorxiv_2024.pdf'
-  pmid: XXXXX
+  pdf: '/static/pdf/2026/2026_scLong_natcomm.pdf'
+  pmid: 41639087
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
