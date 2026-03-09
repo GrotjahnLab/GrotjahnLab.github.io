@@ -8,8 +8,9 @@ banner: static/img/banners/morphometrics_1.png
 
 The Grotjahn Lab connects molecular structure with cellular context to study how mitochondria remodel their shape, composition, and function in response to changing cellular demands and stressors. Our goal is to uncover fundamental mechanisms of mitochondrial adaptation that could inform new therapeutic strategies for disease.
 
-# Interactive Gadget
-### 2025 [Interactive Mitochondrial Morphology Visualization](https://github.com/GrotjahnLab/surface_morphometrics)
+
+Interactive Surface Morphometrics Visualization 
+[Surface morphometrics](https://github.com/GrotjahnLab/surface_morphometrics) is a computational framework originally developed in the Grotjahn Lab and now maintained in collaboration with the [Barad Lab](https://baradlab.com/). Surface morphometrics converts the complex 3D membranes captured by cryo-electron tomography into quantitative maps of cellular architecture. These measurements reveal how membrane shape, spacing, and organization change across biological conditions.
 Slide the vertical lines to reveal different membrane properties.
 <style>
   .image-slider-wrapper {
