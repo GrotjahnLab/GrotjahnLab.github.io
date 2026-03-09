@@ -196,7 +196,15 @@ Slide the vertical lines to reveal different membrane properties.
 
 # Public Lectures, Podcasts, Interviews, and Workshops
 
-### 2025 [Cytoskeleton Spotlight: Michaela Horger](https://onlinelibrary.wiley.com/doi/10.1002/cm.70090)
+### 2026 [ASCB/Wiley Webinar: Bridging cellular and structural biology through cryo-electron tomography](https://events.bizzabo.com/779082)
+Cellular cryo-electron tomography (cryo-ET) holds the grand promise of integrating cellular architecture with molecular structure. Yet, for many cell biologists, this method can seem technically daunting or limited in scope compared to other imaging approaches. In this webinar, Prof. Grotjahn will discuss how cryo-ET is redefining the study of cellular organization by providing direct views of how macromolecules assemble and function in their native environment. Prof. Grotjahn will showcase her lab’s software, Surface Morphometrics, which converts three-dimensional reconstructions into quantitative models linking molecular structure to cellular mechanism. Prof. Grotjahn will highlight where cryo-ET excels, the challenges that remain, and how it fits within the growing landscape of other nanoscale imaging modalities. Explore how these advances are transforming the familiar cartoon models of cells into structural maps of molecular architecture.
+[![Bridging cellular and structural biology through cryo-electron tomography](/static/img/media/2026_wileywebinar.png)](https://events.bizzabo.com/779082)    
+
+### 2026 [Evolving with Septins: Interview with Michelle Momany](https://onlinelibrary.wiley.com/doi/10.1002/cm.70101) [![Evolving with Septins: Interview with Michelle Momany](/static/img/logo/momany.jpeg)](https://onlinelibrary.wiley.com/doi/10.1002/cm.70101).
+[PDF](/static/pdf/2025/100479238.pdf)
+
+### 2025 [Cytoskeleton Spotlight: Michaela Horger](https://onlinelibrary.wiley.com/doi/full/10.1002/cm.70090) [![Cytoskeleton Spotlight: Michaela Horger](/static/img/logo/cytoskeletonspotlight_MH.png)](https://onlinelibrary.wiley.com/doi/full/10.1002/cm.70090).
+[PDF](/static/pdf/2025/Cytoskeleton-2025-Horger.pdf)
 
 ### 2024 [Front Row Lecture](https://frontrow.scripps.edu/lectures/grotjahn/)
 The mitochondria are well known for being cellular “powerhouses,” given their important role in energy generation. Yet, emerging research is now suggesting these organelles also play a key role as the stress-sensors for the cell. In this free Front Row lecture, Scripps Research assistant professor Danielle Grotjahn explored how mitochondria change shape in response to different genetic and environmental stressors. By harnessing cutting-edge imaging technologies to examine mitochondria in these never-before-seen-ways, Grotjahn is revealing how these organelles can predict overall cellular health and even disease, including neurodegenerative disorders and cancer.
