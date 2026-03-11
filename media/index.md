@@ -7,6 +7,10 @@ banner: /static/img/banners/media.png
 
 # Public Lectures, Podcasts, Interviews, and Workshops
 
+### 2026 [Structure Club Podcast](https://www.buzzsprout.com/2511895/episodes/18820153-danielle-grotjahn-and-benjamin-barad)
+Danielle Grotjahn and Benjamin Barad present their paper, [Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments](https://rupress.org/jcb/article/225/3/e202505059/278755/Surface-Morphometrics-reveals-local-membrane)
+<iframe width="921" height="518" src="https://www.youtube.com/embed/htYxzriNaDI" title="Danielle Grotjahn and Benjamin Barard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### 2026 [ASCB/Wiley Webinar: Bridging cellular and structural biology through cryo-electron tomography](https://events.bizzabo.com/779082)
 Cellular cryo-electron tomography (cryo-ET) holds the grand promise of integrating cellular architecture with molecular structure. Yet, for many cell biologists, this method can seem technically daunting or limited in scope compared to other imaging approaches. In this webinar, Prof. Grotjahn will discuss how cryo-ET is redefining the study of cellular organization by providing direct views of how macromolecules assemble and function in their native environment. Prof. Grotjahn will showcase her lab’s software, Surface Morphometrics, which converts three-dimensional reconstructions into quantitative models linking molecular structure to cellular mechanism. Prof. Grotjahn will highlight where cryo-ET excels, the challenges that remain, and how it fits within the growing landscape of other nanoscale imaging modalities. Explore how these advances are transforming the familiar cartoon models of cells into structural maps of molecular architecture.
 [![Bridging cellular and structural biology through cryo-electron tomography](/static/img/media/2026_wileywebinar.png)](https://events.bizzabo.com/779082)    
