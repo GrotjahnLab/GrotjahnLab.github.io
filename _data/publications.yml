@@ -283,6 +283,17 @@
 
 - section: "CryoEM Methods"
 
+- citation: 'Enos SE, Cook BD, Rahmani H, Narehood SM, Li Y, Kuschnerus IC, Redford TH, Dukakis P, Ji D, Bachochin MJ, Grotjahn DA, Herzik MA. A surfactant cocktail overcomes air-water interface artifacts in single-particle cryoEM. *bioRxiv* 20226
+  date: 260318
+  image: '/static/img/publications/2026/2026_Herzik_biorxiv.png'
+  pmid: XXXXXX 
+  pmcid: XXXXX
+  biorxiv: 2026.03.17.712260
+  pdf: '/static/pdf/202/2026_Herzik_biorxiv.pdf'
+  links:
+    - name: "Herzik Lab"
+      url: 'https://herziklab.com/'
+
 - citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallography D Structural Biology* 2022'
   date: 220101
   image: '/static/img/publications/2021/Glycerol_2021.png'
