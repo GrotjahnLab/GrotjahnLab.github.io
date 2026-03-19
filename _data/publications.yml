@@ -293,6 +293,7 @@
   pmid: XXXXXX 
   pmcid: XXXXX
   biorxiv: 2026.03.17.712260
+  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.03.17.712260v1'
   pdf: '/static/pdf/2026/2026_Herzik_biorxiv.pdf'
   links:
     - name: "Herzik Lab"
