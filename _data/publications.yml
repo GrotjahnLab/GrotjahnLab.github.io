@@ -92,8 +92,12 @@
       url: 'https://www.youtube.com/watch?v=htYxzriNaDI'
     - name: "Article featured on the Structure Club Podcast (audio only)"
       url: 'https://www.buzzsprout.com/2511895/episodes/18820153-danielle-grotjahn-and-benjamin-barad'
+    - name: "Article highlighted in FocalPlane"
+      url: 'https://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/'
     - name: "Press Release"
       url: 'https://www.scripps.edu/news-and-events/press-room/2026/20260114-grotjahn-cellular-membrane.html'
+    - name: "Journal Blueskytorial"
+      url: 'https://bsky.app/profile/baradlab.com/post/3maw4kykupk23'
     - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
     - name: "Patch analysis on Github"
