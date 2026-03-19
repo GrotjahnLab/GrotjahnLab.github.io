@@ -7,7 +7,11 @@ banner: /static/img/banners/media.png
 
 # Public Lectures, Podcasts, Interviews, and Workshops
 
-### 2026 [Back to the density: using Surface Morphometrics to measure organelle membrane thickness in cryo-electron tomography](https://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/) Michaela Medina presents our paper [Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments](https://rupress.org/jcb/article/225/3/e202505059/278755/Surface-Morphometrics-reveals-local-membrane) in a FocalPlane post! [![Back to the density: using Surface Morphometrics to measure organelle membrane thickness in cryo-electron tomography (/static/img/media/2026_focalplane_thickness.png)](hhttps://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/).
+### 2026 [Back to the density: using Surface Morphometrics to measure organelle membrane thickness in cryo-electron tomography](https://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/)
+
+Michaela Medina presents our paper [Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments](https://rupress.org/jcb/article/225/3/e202505059/278755/Surface-Morphometrics-reveals-local-membrane) in a FocalPlane post! 
+
+[![Back to the density: using Surface Morphometrics to measure organelle membrane thickness in cryo-electron tomography](/static/img/media/2026_focalplane_thickness.png)](hhttps://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/)
 
 ### 2026 [Structure Club Podcast](https://www.buzzsprout.com/2511895/episodes/18820153-danielle-grotjahn-and-benjamin-barad)
 Danielle Grotjahn and Benjamin Barad present their paper, [Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments](https://rupress.org/jcb/article/225/3/e202505059/278755/Surface-Morphometrics-reveals-local-membrane)
