@@ -26,7 +26,7 @@
   image: '/static/img/publications/2025/Chang_2024_co-trans_biorxiv.png'
   biorxiv: 2024.07.17.604013
   pdf: '/static/pdf/2025/Chang_Cyt-mitoRibos_JCB_2025.pdf'
-  pmid: 39071314
+  pmid: 40047641
   emdbs:
     - 48751
     - 48752 
@@ -42,7 +42,7 @@
   image: '/static/img/publications/2024/2024BaronOviedobioRXIV.png'
   biorxiv: 2024.06.10.598126
   pdf: '/static/pdf/2024/baron_oviedo_eLife_2024.pdf'
-  pmid: 38915623 
+  pmid: 39937095
   links:
     - name: "Wiseman Lab @ Scripps Research"
       url: 'http://www.wiseman.scripps.edu/'
@@ -84,7 +84,7 @@
   image: '/static/img/publications/2025/thickness.png'
   biorxiv: 2025.04.30.651574
   pdf: '/static/pdf/2025/2025_thickness_JCB.pdf'
-  pmid: 40654968
+  pmid: 41474626
   emdbs:
     - 72321
   links:
