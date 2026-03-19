@@ -9,12 +9,9 @@ banner: /static/img/banners/media.png
 
 ### 2026 [Back to the density: using Surface Morphometrics to measure organelle membrane thickness in cryo-electron tomography](https://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/)
 
-<p style="font-size: 0.9em;">
 Michaela Medina presents our paper 
-<a href="https://rupress.org/jcb/article/225/3/e202505059/278755/Surface-Morphometrics-reveals-local-membrane">
-Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments
-</a> in a FocalPlane post!
-</p>
+[Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments](https://rupress.org/jcb/article/225/3/e202505059/278755/Surface-Morphometrics-reveals-local-membrane)
+in a FocalPlane post! 
 
 <a href="https://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/">
   <img src="/static/img/media/2026_focalplane_thickness.png" alt="FocalPlane post" style="max-width:100%;">
