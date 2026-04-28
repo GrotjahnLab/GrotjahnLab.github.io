@@ -321,16 +321,6 @@
 
 - section: "Collaborative Software Development"
 
-- citation: 'Bai D, Mo S, Zhang R, Luo Y, Gao J, Yang JP, Wu Q, **Rahmani H**, Amariuta T, **Grotjahn D**, Zhong S, Lewis N, Wang W, Ideker T, Xie P, Xing E. scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics. *Nature Communications* 2026.'
-  image: '/static/img/publications/2024/Bai_scLong_2024.png'
-  biorxiv: 2024.11.09.622759
-  pdf: '/static/pdf/2026/2026_scLong_natcomm.pdf'
-  pmid: 41639087
-  emdbs:
-  links:
-    - name: "Pengtao Xie Lab"
-      url: 'https://pengtaoxie.github.io/'
-
 - citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, **Grotjahn DA**, Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
   image: '/static/img/publications/2024/Liang_drugchat_preprint_2024.png'
   biorxiv: 2024.09.29.615524
