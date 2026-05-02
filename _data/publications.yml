@@ -287,7 +287,19 @@
 
 - section: "CryoEM Methods"
 
-- citation: 'Enos SE, Cook BD, Rahmani H, Narehood SM, Li Y, Kuschnerus IC, Redford TH, Dukakis P, Ji D, Bachochin MJ, Grotjahn DA, Herzik MA. A surfactant cocktail overcomes air-water interface artifacts in single-particle cryoEM. *bioRxiv* 2026'
+- citation: 'Rafiq M, **Schafer J, Rahmani H**, You S, Bollong M, **Grotjahn DA**, Wiseman RL, Lander GC. DM: a simple solution to suppress air-water interface interactions in cryo-EM. *bioRxiv* 2026'
+  date: 260402
+  image: '/static/img/publications/2026/2026_Lander_DM_biorxiv.png'
+  pmid: XXXXXX
+  pmcid: XXXXX
+  biorxiv: 2026.04.02.716008
+  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.04.02.716008v1'
+  pdf: '/static/pdf/2026/2026_Landerlab_AWI_biorxiv.pdf'
+  links:
+    - name: "Lander Lab"
+      url: 'https://www.lander-lab.com/'
+
+- citation: 'Enos SE, Cook BD, **Rahmani H**, Narehood SM, Li Y, Kuschnerus IC, Redford TH, Dukakis P, Ji D, Bachochin MJ, **Grotjahn DA**, Herzik MA. A surfactant cocktail overcomes air-water interface artifacts in single-particle cryoEM. *bioRxiv* 2026'
   date: 260318
   image: '/static/img/publications/2026/2026_Herzik_biorxiv.png'
   pmid: XXXXXX 
@@ -321,20 +333,20 @@
 
 - section: "Collaborative Software Development"
 
-- citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, **Grotjahn DA**, Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
-  image: '/static/img/publications/2024/Liang_drugchat_preprint_2024.png'
-  biorxiv: 2024.09.29.615524
-  pdf: '/static/pdf/2024/Liang_drugchat_preprint_2024.pdf'
-  pmid: XXXXX
+- citation: 'Zhang L, Guo H, Schaffer L, Ko YS, Singh D, **Rahmani H, Grotjahn DA**, Villa E, Gilson M, Wang W, Ideker T, Xing E, Xie P. A tri-modal contrastive learning framework for protein representation learning. *Cell Reports Methods* 2026.'
+  image: '/static/img/publications/2024/Zhang_ProteinAligner_preprint_2024.png'
+  biorxiv: 2024.10.06.616870
+  pdf: '/static/pdf/2024/proteinaligner_xielab_cellmethodsresports.pdf'
+  pmid: 41990738
   emdbs:
   links:
     - name: "Pengtao Xie Lab"
       url: 'https://pengtaoxie.github.io/'
 
-- citation: 'Zhang L, Guo H, Schaffer L, Ko YS, Singh D, **Rahmani H, Grotjahn DA**, Villa E, Gilson M, Wang W, Ideker T, Xing E, Xie P. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models. *bioRxiv* 2024.'
-  image: '/static/img/publications/2024/Zhang_ProteinAligner_preprint_2024.png'
-  biorxiv: 2024.10.06.616870
-  pdf: '/static/pdf/2024/Zhang_ProteinAligner_preprint_2024.pdf'
+- citation: 'Liang Y, Zhang R, Li Y, Huo M, Ma Z, Singh D, Gao C, **Rahmani H**, Bandi S, Zhang L, Weinreb R, Malhotra A, **Grotjahn DA**, Awdishu L, Ideker T, Gilson M, Xie P. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. *bioRxiv* 2024.'
+  image: '/static/img/publications/2024/Liang_drugchat_preprint_2024.png'
+  biorxiv: 2024.09.29.615524
+  pdf: '/static/pdf/2024/Liang_drugchat_preprint_2024.pdf'
   pmid: XXXXX
   emdbs:
   links:
