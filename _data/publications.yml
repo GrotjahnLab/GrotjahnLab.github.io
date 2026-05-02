@@ -334,9 +334,9 @@
 - section: "Collaborative Software Development"
 
 - citation: 'Zhang L, Guo H, Schaffer L, Ko YS, Singh D, **Rahmani H, Grotjahn DA**, Villa E, Gilson M, Wang W, Ideker T, Xing E, Xie P. A tri-modal contrastive learning framework for protein representation learning. *Cell Reports Methods* 2026.'
-  image: '/static/img/publications/2024/Zhang_ProteinAligner_preprint_2024.png'
+  image: '/static/img/publications/2024/Zhang_ProteinAligner_preprint_2024.png.'
   biorxiv: 2024.10.06.616870
-  pdf: '/static/pdf/2024/proteinaligner_xielab_cellmethodsresports.pdf'
+  pdf: '/static/pdf/2026/proteinaligner_xielab_cellmethodsresports.pdf'
   pmid: 41990738
   emdbs:
   links:
