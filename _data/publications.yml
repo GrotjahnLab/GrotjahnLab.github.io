@@ -232,6 +232,11 @@
 
 - section: "Cryo-ET across biological systems"
 
+- citation: '**Grotjahn DA**. Thick globally, act locally: Redefining organellar membrane environments through cryo-electron tomography. *Current Opinion in Structural Biology* 2026.' 
+  image: '/static/img/publications/2026/2026_Membranes_curropinion.png' 
+  pdf: '/static/pdf/2026/2026_currpion_membranes.pdf'
+  pmid: 42287779
+
 - citation: 'Li D, Zhang W, **Medina M**, Stuke JFM, Schwarz A, Brill J, Brenner J, Kraus F, Ohlerich S, Lizarrondo J, Pflaum J, Grass JH, Soltow L, Hammerschmid D, Weber N, Welsch S, Langer JD, Windbergs M, Harber JW, Schuman E, Hummer G, **Grotjahn DA**, Wifling F. Cathepsin-dependent amyloid formation drives mechanical rupture of lysosomal membranes. *bioRxiv* 2026.'
   image: '/static/img/publications/2026/2026_Wifling_biorxiv.png'
   pdf: '/static/pdf/2026/LLOMEWifling_biorxiv.pdf'
