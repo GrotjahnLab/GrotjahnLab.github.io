@@ -1,5 +1,15 @@
 - section: "Mitochondrial Dynamics"
 
+- citation: '**Dua N, Ma B, Oviedo, S, Rahmani H, Boyd T,** Park D, R. Luke Wiseman, **Grotjahn DA§**. ATAD3A structurally links mtDNA replication and mitochondrial fission. *bioRxiv* 2026.' 
+  image: '/static/img/publications/2026/2026_Dua_mtDNAclem_biorxiv.png'
+  biorxiv: 2026.06.23.733767
+  pdf: '/static/pdf/2026/2026_Dua_mtDNAclem_biorxiv.pdf'
+  pmid: XXXX
+  emdbs:
+  links:
+    - name: "Surface Morphometrics on Github"
+      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
+
 - citation: '**Medina M, Rahmani H, Chang Y, Barad BA, Grotjahn DA§**. Prohibitin complexes associate with unique membrane microdomains in cells. *bioRxiv* 2025.' 
   image: '/static/img/publications/2025/2025_PHB_medina.png'
   biorxiv: 2025.11.14.688579
