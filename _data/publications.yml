@@ -90,6 +90,16 @@
 
 - section: "Surface Morphometrics and other cryo-ET software"
 
+- citation: 'Chua EYD§, **Rahmani H**, Zhen J, Eisenstein F, Song YH, Johnston JD, Wang H, Alink LM, Kopylov M, Ho C, **Grotjahn DA§**, Marco A§. Imaging large fields-of-view at high resolution in cryo-ET with square beam montaging. *bioRxiv* 2026.' 
+  image: '/static/img/publications/2026/2026_squareaperturemontage_biorxiv.png'
+  biorxiv: 2026.08.27.747605
+  pdf: '/static/pdf/2026/2026_SquareBeamsMontage_biorxiv.pdf'
+  pmid: XXXX
+  emdbs:
+  links:
+    - name: "Alex de Marco Lab at SEMC"
+      url: 'https://semc.nysbc.org/'
+
 - citation: '**Medina M†, Chang Y†, Rahmani H**, Frank M, Khan Z, **Fuentes D**, Heberle FA, Waxham MN, **Barad BA§, Grotjahn DA§**. Surface Morphometrics reveals local membrane thickness variation in organellar subcompartments. *Journal of Cell Biology (JCB)* 2025.†Equal contribution §Corresponding author'
   image: '/static/img/publications/2025/thickness.png'
   biorxiv: 2025.04.30.651574

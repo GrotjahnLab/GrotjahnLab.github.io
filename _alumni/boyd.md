@@ -2,10 +2,12 @@
 name: Tumara Boyd
 image: /static/img/members/Tumara.jpg
 position: Research Technician
-order: 4
+status: alum
 email: tboyd (at) scripps.edu
+subsequent: Clinical Laboratory Liaison Trainee
 twitter: 
 startdate: 2022-10-26
+enddate: 2026-07-01
 ---
 Tumara earned her undergraduate degree in Microbiology, with academic distinction, from University of California, San Diego. 
 

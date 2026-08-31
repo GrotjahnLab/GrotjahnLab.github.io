@@ -2,14 +2,16 @@
 name: Atty (Ya-Ting) Chang 
 image: /static/img/members/Atty.png
 position: Graduate Student
-order: 3
+status: alum
 email: ychang (at) scripps.edu
+subsequent: Postdoc in the Bhabha + Ekiert Labs at Johns Hopkins University 
 scholar: 2Ka4KUMAAAAJ 
 twitter: atty_chang
 orcid: 0000-0003-2580-4622
 github: attychang
 pronouns: she/her/hers 
 startdate: 2022-05-01
+enddate: 2026-06-01
 ---
 Atty received her undergraduate degree in Biological Science and Technology from National Chiao Tung University and her master’s degree in Biochemistry and Molecular Biology from National Taiwan University in Taiwan. She then worked as research assistant in [Meng-Chiao Ho’s lab](https://www.imb.sinica.edu.tw/~mcyao/) at Academia Sinica, Taiwan and utilized structural techniques to investigate the interaction between the transcriptional factor Sub1A1 and DNA in rice. 
 
