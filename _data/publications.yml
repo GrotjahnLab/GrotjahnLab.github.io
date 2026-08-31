@@ -93,8 +93,8 @@
 
 - citation: 'Chua EYD§, **Rahmani H**, Zhen J, Eisenstein F, Song YH, Johnston JD, Wang H, Alink LM, Kopylov M, Ho C, **Grotjahn DA§**, Marco A§. Imaging large fields-of-view at high resolution in cryo-ET with square beam montaging. *bioRxiv* 2026.' 
   image: '/static/img/publications/2026/2026_squareaperturemontage_biorxiv.png'
-  biorxiv: 2026.08.27.747605v1
-  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.06.23.733767v1'
+  biorxiv: 2026.08.27.747605
+  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.08.27.747605v1'
   pdf: '/static/pdf/2026/2026_SquareBeamsMontage_biorxiv.pdf'
   pmid: XXXX
   emdbs:
