@@ -2,7 +2,7 @@
 
 - citation: '**Dua N, Ma B, Oviedo, S, Rahmani H, Boyd T,** Park D, R. Luke Wiseman, **Grotjahn DA§**. ATAD3A structurally links mtDNA replication and mitochondrial fission. *bioRxiv* 2026.' 
   image: '/static/img/publications/2026/2026_Dua_mtDNAclem_biorxiv.png'
-  biorxiv: 2026.06.23.733767
+  biorxiv: 2026.06.23.733767v1
   pdf: '/static/pdf/2026/2026_Dua_mtDNAclem_biorxiv.pdf'
   pmid: XXXX
   emdbs:
@@ -92,7 +92,7 @@
 
 - citation: 'Chua EYD§, **Rahmani H**, Zhen J, Eisenstein F, Song YH, Johnston JD, Wang H, Alink LM, Kopylov M, Ho C, **Grotjahn DA§**, Marco A§. Imaging large fields-of-view at high resolution in cryo-ET with square beam montaging. *bioRxiv* 2026.' 
   image: '/static/img/publications/2026/2026_squareaperturemontage_biorxiv.png'
-  biorxiv: 2026.08.27.747605
+  biorxiv: 2026.08.27.747605v1
   pdf: '/static/pdf/2026/2026_SquareBeamsMontage_biorxiv.pdf'
   pmid: XXXX
   emdbs:
