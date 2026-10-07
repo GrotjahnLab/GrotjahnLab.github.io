@@ -314,7 +314,17 @@
 
 - section: "CryoEM Methods"
 
-- citation: 'Rafiq M, **Schafer J, Rahmani H**, You S, Bollong M, **Grotjahn DA**, Wiseman RL, Lander GC. DM: a simple solution to suppress air-water interface interactions in cryo-EM. *bioRxiv* 2026'
+- citation: '**Schäfer J**, O’Neill RT, Gao Z, **Grotjahn DA**, Powers ET, Kelly JW, Lander GC. Tailocins are recurrent contaminants in ex vivo amyloid extraction. *bioRxiv* 2026'
+  date: 260617
+  image: '/static/img/publications/2026/2026_AmyloidComtaminant.jpg'
+  pmid: XXXXXX
+  pmcid: XXXXX
+  biorxiv: 2026.06.17.733002
+  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.06.17.733002v2.abstract'
+  pdf: '/static/pdf/2026/2026_Amyloid_Contaminant_biorxiv.pdf'
+  links:
+
+- citation: 'Rafiq M, **Schäfer  J, Rahmani H**, You S, Bollong M, **Grotjahn DA**, Wiseman RL, Lander GC. DM: a simple solution to suppress air-water interface interactions in cryo-EM. *bioRxiv* 2026'
   date: 260402
   image: '/static/img/publications/2026/2026_Lander_DM_biorxiv.png'
   pmid: XXXXXX

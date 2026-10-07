@@ -1,7 +1,7 @@
 ---
 name: José M. Borbolla Salinas
 image: /static/img/members/Jose.jpg
-position: Graduate Student
+position: Research Technician
 order: 4
 email: jborbolla (at) scripps.edu
 startdate: 2026-09-15

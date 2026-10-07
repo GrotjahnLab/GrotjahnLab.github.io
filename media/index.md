@@ -7,6 +7,13 @@ banner: /static/img/banners/media.png
 
 # Public Lectures, Podcasts, Interviews, and Workshops
 
+### 2026 [Advances in cryo-electron tomography expand the capabilities of quantitative cell biology](https://www.thermofisher.com/blog/atomic-resolution/advances-in-cryo-electron-tomography-expand-the-capabilities-of-quantitative-cell-biology/)
+Thermo Fisher blog post on the Grotjahn lab's work moving cryo-ET from qualitative imaging toward quantitative cell biology, using our Surface Morphometrics pipeline to measure how mitochondrial membranes remodel under cellular stress.
+
+<a href="https://www.thermofisher.com/blog/atomic-resolution/advances-in-cryo-electron-tomography-expand-the-capabilities-of-quantitative-cell-biology/">
+  <img src="/static/img/media/2026_TFS_blogpost.png" alt="TFS quantitative cell biology post" style="max-width:100%;">
+</a>
+
 ### 2026 [Back to the density: using Surface Morphometrics to measure organelle membrane thickness in cryo-electron tomography](https://focalplane.biologists.com/2026/03/18/back-to-the-density-using-surface-morphometrics-to-measure-organelle-membrane-thickness-in-cryo-electron-tomography/)
 
 Michaela Medina presents our paper 
