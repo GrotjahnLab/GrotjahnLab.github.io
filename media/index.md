@@ -7,6 +7,11 @@ banner: /static/img/banners/media.png
 
 # Public Lectures, Podcasts, Interviews, and Workshops
 
+### 2026 [The Naked Scientists Podcast: What are mitochondria, and can we fix them?](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/what-are-mitochondria-and-can-we-fix-them)
+In this episode, produced in partnership with the Advanced Research + Invention Agency (ARIA), Danielle Grotjahn kicks off a discussion of all things mitochondria: their endosymbiotic origins and why they are so central to cell biology. The episode goes on to explore what goes wrong in aging and inherited disease, and what it will take to fix them.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2YTje2PqLBTCtbhuxq6YKi?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 2026 [Advances in cryo-electron tomography expand the capabilities of quantitative cell biology](https://www.thermofisher.com/blog/atomic-resolution/advances-in-cryo-electron-tomography-expand-the-capabilities-of-quantitative-cell-biology/)
 Thermo Fisher blog post on the Grotjahn lab's work moving cryo-ET from qualitative imaging toward quantitative cell biology, using our Surface Morphometrics pipeline to measure how mitochondrial membranes remodel under cellular stress.
 

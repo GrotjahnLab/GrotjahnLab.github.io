@@ -91,6 +91,17 @@
 
 - section: "Surface Morphometrics and other cryo-ET software"
 
+- citation: 'Liang Y, Hosseini R, **Rahmani H**, Singh D, Zhang R, Guo H, Choe S, **Lee J**, Xu M, Segal E, Zou J, Williamson J, Villa E, **Grotjahn DA**, Xie P. RobPicker: a meta learning framework for robust identification of macromolecules in cryo-electron tomograms. *Nature Methods* 2026.' 
+  image: '/static/img/publications/2026/2026_Robpicker_natmethods.png'
+  biorxiv: 2025.09.16.676650
+  pdf: '/static/pdf/2026/2026_Robpicker_natmethods..pdf'
+  pmid: '42982897'
+  emdbs:
+  links:
+    - name: "Pengtao Xie Lab"
+      url: 'https://pengtaoxie.github.io/'
+
+
 - citation: 'Chua EYD§, **Rahmani H**, Zhen J, Eisenstein F, Song YH, Johnston JD, Wang H, Alink LM, Kopylov M, Ho C, **Grotjahn DA§**, Marco A§. Imaging large fields-of-view at high resolution in cryo-ET with square beam montaging. *bioRxiv* 2026.' 
   image: '/static/img/publications/2026/2026_squareaperturemontage_biorxiv.png'
   biorxiv: 2026.08.27.747605
@@ -133,16 +144,6 @@
   image: '/static/img/publications/2025/2025_Grotjahn_CurrOpin_Seg.png' 
   pdf: '/static/pdf/2025/2025_Grotjahn_CurrOpin_segmentation.pdf'
   pmid: 40645092
-
-- citation: 'Hosseini R, Liang Y, Singh D, **Rahmani H**, Choe D, **Lee J**, Xu M, Segal E, Zou J, Williamson J, **Grotjahn DA**, Villa E, Xie P. RobPicker: A Meta Learning Framework for Robust Identification of Macromolecules in Cryo-Electron Tomograms. *bioRxiv* 2025.' 
-  image: '/static/img/publications/2025/2025_Robpicker.png'
-  biorxiv: 2025.09.16.676650
-  pdf: '/static/pdf/2025/2025_Robpicker_biorxiv.pdf'
-  pmid: XXXX
-  emdbs:
-  links:
-    - name: "Pengtao Xie Lab"
-      url: 'https://pengtaoxie.github.io/'
 
 - citation: 'Boneš E, Khan D, Bohak C, **Barad BA, Grotjahn DA**, Viola I, Theußl T. MidSurfer: A parameter-free approach for mid-surface extraction from segmented volumetric data. *IEEE* 2025'
   image: '/static/img/publications/2025/midsurfer_arxiv2024.png'
@@ -314,6 +315,18 @@
 
 - section: "CryoEM Methods"
 
+- citation: 'Enos SE, Cook BD, **Rahmani H**, Narehood SM, Li Y, Kuschnerus IC, Redford TH, Dukakis P, Ji D, Bachochin MJ, **Grotjahn DA**, Herzik MA. A surfactant cocktail overcomes air-water interface artifacts in single-particle cryoEM. *bioRxiv* 2026'
+  date: 260318
+  image: '/static/img/publications/2026/2026_Herzik_biorxiv.png'
+  pmid: XXXXXX 
+  pmcid: XXXXX
+  biorxiv: 2026.03.17.712260
+  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.03.17.712260v1'
+  pdf: '/static/pdf/2026/2026_Herzik_biorxiv.pdf'
+  links:
+    - name: "Herzik Lab"
+      url: 'https://herziklab.com/'
+
 - citation: '**Schäfer J**, O’Neill RT, Gao Z, **Grotjahn DA**, Powers ET, Kelly JW, Lander GC. Tailocins are recurrent contaminants in ex vivo amyloid extraction. *bioRxiv* 2026'
   date: 260617
   image: '/static/img/publications/2026/2026_AmyloidComtaminant.jpg'
@@ -335,18 +348,6 @@
   links:
     - name: "Lander Lab"
       url: 'https://www.lander-lab.com/'
-
-- citation: 'Enos SE, Cook BD, **Rahmani H**, Narehood SM, Li Y, Kuschnerus IC, Redford TH, Dukakis P, Ji D, Bachochin MJ, **Grotjahn DA**, Herzik MA. A surfactant cocktail overcomes air-water interface artifacts in single-particle cryoEM. *bioRxiv* 2026'
-  date: 260318
-  image: '/static/img/publications/2026/2026_Herzik_biorxiv.png'
-  pmid: XXXXXX 
-  pmcid: XXXXX
-  biorxiv: 2026.03.17.712260
-  biorxiv_url: 'https://www.biorxiv.org/content/10.64898/2026.03.17.712260v1'
-  pdf: '/static/pdf/2026/2026_Herzik_biorxiv.pdf'
-  links:
-    - name: "Herzik Lab"
-      url: 'https://herziklab.com/'
 
 - citation: 'Basanta B, Hirschi MM, **Grotjahn DA**, Lander, GC. A case for glycerol as an acceptable additive for single particle cryoEM samples. *Acta Crystallography D Structural Biology* 2022'
   date: 220101
